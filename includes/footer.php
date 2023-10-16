@@ -3,7 +3,7 @@
         <div class="row">
             <div class=" col-sm-12 footer-content-box">
                 <div class="col-sm-3">
-                    <img src="img/logo.png" width="150" alt="logo-cifec">
+                    <img src="images/4.png" width="150" alt="logo-cifec">
                     <!-- <p>école spécialisée dans les métiers de la comptabilité, le contrôle de gestion, l’audit et la
 							finance.</p> -->
                     <ul class="list-unstyled">
@@ -76,7 +76,7 @@
             <div class="footer-bottom-inner">
                 <div class="row">
                     <div class="col-md-6 col-sm-12 footer-no-padding">
-                        <p>&copy; Copyright 2023 CIFEC Benin | Tous droits réservés</p>
+                        <p>&copy; Copyright 2023 CFGE | Tous droits réservés</p>
                     </div>
                     <div class="col-md-6 col-sm-12 footer-no-padding">
                         <ul class="list-unstyled footer-menu text-right">
