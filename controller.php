@@ -135,7 +135,7 @@ if (isset($_POST['nl'])) {
                 $ajout_newsletter = $conn->prepare('INSERT INTO newsletter (jour, email) VALUES (?, ?)');
                 $ajout_newsletter->execute(array($jour, $email));
                 header('Location: reponse-succes.php');
-               
+
             }
         } else {
             header('Location: reponse_erreur.php');

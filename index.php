@@ -143,14 +143,13 @@ include_once 'controller.php';
 					<div class="row">
 						<div class="col-sm-12 section-header-box">
 							<div class="section-header section-header-l">
-								<h2>Bienvenu au CIFEC Bénin</h2>
+								<h2>Bienvenu au CFGE</h2>
 							</div><!-- ends: .section-header -->
 						</div>
 					</div>
-					<p style="font-size:17px">Le Centre International de Formation à l’Expertise Comptable (CIFEC) du Bénin, est une grande école spécialisée dans les métiers de la comptabilité, le contrôle de gestion,
-						l’audit et la finance et qui forme principalement les experts comptables.
+					<p style="font-size:17px">Le Centre de Formation à la Gestion des Entreprises de Côte d’Ivoire (CFGE), est un établissement privé d’enseignement supérieur qui propose des programmes adaptés aux mutations des secteurs de la gestion, du commerce, de la comptabilité, de l’audit et la finance et qui forme principalement  <span style="color:red; font-weight:bold;">les experts comptables.</span>
 					</p>
-					<p style="font-size:17px">Il est réputé pour ses programmes, le nombre et la qualité de ses partenaires internationaux, ses prestigieux diplômes et ses filières d'excellence.</p>
+					<p style="font-size:17px">Il est réputé pour ses programmes, le nombre et la qualité de ses partenaires internationaux, notamment <span>l'ESCAE DE NIAMEY</span> et le <span>CNAM  de l'INTEC</span> ses prestigieux diplômes et ses filières d'excellence.</p>
 
 					<a href="a-propos.php" class="read_more-btn fa fa-long-arrow-right">En savoir plus</a>
 				</div><!-- Ends: . -->
@@ -170,7 +169,7 @@ include_once 'controller.php';
 				<div class="col-sm-12 section-header-box" data-aos="zoom-in">
 					<div class="section-header">
 						<h2>Nos programmes de formation</h2>
-						<p style="font-size:17px">Le CIFEC BENIN forme les étudiants et auditeurs à plusieurs prestigieux diplômes notamment la Licence des Sciences Techniques Comptables et Financières (LSTCF) et le
+						<p style="font-size:17px">Le CFGE forme les étudiants et auditeurs à plusieurs prestigieux diplômes notamment la Licence des Sciences Techniques Comptables et Financières (LSTCF) et le
 							Master Comptabilité, Contrôle et Audit (MCCA) qui permettent respectivement de mieux préparer le Diplôme de Comptabilité et de Gestion (DCG) et le Diplôme Supérieur de
 							Comptabilité et de Gestion (DSCG), diplôme conférant le titre d’expert-comptable stagiaire. <br><br>
 						</p>
@@ -721,7 +720,7 @@ include_once 'controller.php';
 								</span>
 								<span>
 									<i class="fa fa-user"></i>
-									CIFEC BENIN
+									CFGE
 								</span>
 
 							</p>
@@ -743,7 +742,7 @@ include_once 'controller.php';
 								</span>
 								<span>
 									<i class="fa fa-user"></i>
-									CIFEC BENIN
+									CFGE
 								</span>
 
 							</p>
@@ -765,7 +764,7 @@ include_once 'controller.php';
 								</span>
 								<span>
 									<i class="fa fa-user"></i>
-									CIFEC BENIN
+									CFGE
 								</span>
 
 							</p>
@@ -784,14 +783,14 @@ include_once 'controller.php';
 					<div class="section-header" data-aos="zoom-in" data-aos-delay="400">
 						<br><br>
 						<h2>Nos Partenaires</h2>
-						<p style="font-size:17px">Les principaux partenaires du CIFEC sont la prestigieuse Ecole Supérieure de
+						<p style="font-size:17px">Les principaux partenaires du CFGE sont la prestigieuse Ecole Supérieure de
 							Commerce et d’Administration des Entreprises (ESCAE) située à Niamey au NIGER
 							dont le Fondateur, Directeur Général est Mr Victor AKESSE, Expert-Comptable et
 							l’Institut National des Techniques Economiques et Comptables (INTEC) de Paris.
 							Viennent par la suite :
 							L’Institut international de formation à l’expertise comptable (2IFEC) du Burkina
 							Faso ;
-							Le Centre de formation à la Gestion des entreprises (CFGE) de Côte d’Ivoire ;</p>
+							 Le Centre International de Formation à l’Expertise Comptable (CIFEC) du Bénin</p>
 					</div>
 				</div>
 			</div>

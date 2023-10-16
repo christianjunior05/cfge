@@ -7,15 +7,16 @@
                     <!-- <p>école spécialisée dans les métiers de la comptabilité, le contrôle de gestion, l’audit et la
 							finance.</p> -->
                     <ul class="list-unstyled">
-                        <li><span><i class="fa fa-phone footer-icon"></i></span>(+229) 95 37 42 53 <br></li>
-                        <li><span><i class="fa fa-phone footer-icon"></i></span>(+229) 66 15 82 32 <br></li>
-                        <li><span><i class="fa fa-envelope footer-icon"></i></span>infos@cifecbenin.net</li>
-                        <li><span><i class="fa fa-map-marker footer-icon"></i></span>10 BP 0592 Carré/1061 Vodjè <br><br> Situé juste après le carrefour SONAR à 100m de l’hôtel de l’Etoile</li>
+                        <li><span><i class="fa fa-phone footer-icon"></i></span>(+225) 07 09 43 43 15 <br></li>
+                        <li><span><i class="fa fa-phone footer-icon"></i></span>(+225) 05 56 18 54 34 <br></li>
+                        <li><span><i class="fa fa-envelope footer-icon"></i></span>infos@cfge.ci</li>
+                        <li><span><i class="fa fa-envelope footer-icon"></i></span>ABIDJAN COCODY 2 PLATEAUX SIDECI</li>
+                        <li><span><i class="fa fa-map-marker footer-icon"></i></span>Carrefour Duncan àrès la CEI <br><br>Rue K112 villa 18</li>
                     </ul>
                 </div>
 
                 <div class="col-sm-3">
-                    <h3>Le CIFEC Benin</h3>
+                    <h3>Le CFGE</h3>
                     <ul class="list-unstyled">
                         <li><a href="about.php"><span><i class="fa fa-long-arrow-right footer-icon"></i></span>A Propos</a></li>
                         <li><a href="mission-valeur.php"><span><i class="fa fa-long-arrow-right footer-icon"></i></span>Missions et Valeurs</a></li>

@@ -1,1 +1,1 @@
-<a href="index.php" class="navbar-brand  data-scroll"><img src="images/cfc.png" alt="logo" width="100px" height="100px" style="position:absolute ; margin-top:-29px"></a>
+<a href="index.php" class="navbar-brand  data-scroll"><img src="images/2.png" alt="logo" width="100px" height="100px" style="position:absolute ; margin-top:-29px"></a>

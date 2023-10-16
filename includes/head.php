@@ -4,7 +4,7 @@
     <meta name="description" content="EduRead - Education HTML5 Template">
     <meta name="keywords" content="college, education, institute, responsive, school, teacher, template, university">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Cifec-Bénin</title>
+    <title>Cfge</title>
     <link rel="shortcut icon" href="img/fav.jpg" type="image/x-icon">
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="css/assets/bootstrap.min.css">
