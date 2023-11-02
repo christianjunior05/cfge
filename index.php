@@ -52,16 +52,16 @@ include_once 'controller.php';
 						<img src="img/CIFEC-18.jpg" alt="Sky" class="rev-slidebg">
 						<!-- BEGIN BASIC TEXT LAYER -->
 						<!-- LAYER NR. 1 -->
-						<div class="tp-caption sfr font-extra-bold tp-resizeme letter-space-4 header-1 title-line-1" data-x="left" data-hoffset="0" data-y="center" data-voffset="-140" data-frames='[{"delay":0,"speed":3000,"frame":"0","from":"x:[175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:1;","mask":"x:[-100%];y:0;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]' style="z-index: 6; font-size:60px; color:#fff; font-family: 'Montserrat', sans-serif;, serif; white-space: nowrap;font-weight:700;">Bienvenu au
+						<div class="tp-caption sfr font-extra-bold tp-resizeme letter-space-4 header-1 title-line-1" data-x="left" data-hoffset="0" data-y="center" data-voffset="-140" data-frames='[{"delay":0,"speed":3000,"frame":"0","from":"x:[175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:1;","mask":"x:[-100%];y:0;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]' style="z-index: 6; font-size:60px; color:#fff; font-family: 'Montserrat', sans-serif; serif; white-space: nowrap;font-weight:700;">Bienvenu au
 
 						</div>
 
 						<!-- LAYER NR. 2 -->
-						<div class="tp-caption sfr font-extra-bold tp-resizeme letter-space-4 header-1 title-line-2" data-x="left" data-hoffset="0" data-y="center" data-voffset="-80" data-frames='[{"delay":1000,"speed":3000,"frame":"0","from":"x:[175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:1;","mask":"x:[-100%];y:0;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]' style="z-index: 6; font-size:60px; color:#fff; font-family: 'Montserrat', sans-serif;, serif; white-space: nowrap;font-weight:700;">CFGE
+						<div class="tp-caption sfr font-extra-bold tp-resizeme letter-space-4 header-1 title-line-2" data-x="left" data-hoffset="0" data-y="center" data-voffset="-80" data-frames='[{"delay":1000,"speed":3000,"frame":"0","from":"x:[175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:1;","mask":"x:[-100%];y:0;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]' style="z-index: 6; font-size:60px; color:#fff; font-family: 'Montserrat', sans-serif; serif; white-space: nowrap;font-weight:700;">CFGE
 						</div>
 
 						<!-- LAYER NR. 3 -->
-						<div class="tp-caption sfr font-extra-bold tp-resizeme letter-space-4 header-p" data-x="left" data-hoffset="0" data-y="center" data-voffset="-10" data-frames='[{"delay":1000,"speed":3000,"frame":"0","from":"x:[175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:1;","mask":"x:[-100%];y:0;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]' style="z-index: 6; line-height:25px; font-size:15px; color:#fff; font-family: 'Open Sans', sans-serif;, serif; white-space: nowrap;">La nouvelle solution de l’Expertise Comptable, qui vous donne la possibilité de <br> devenir <strong>EXPERT-COMPTABLE STAGIAIRE</strong> en 5 ans après le BAC.
+						<div class="tp-caption sfr font-extra-bold tp-resizeme letter-space-4 header-p" data-x="left" data-hoffset="0" data-y="center" data-voffset="-10" data-frames='[{"delay":1000,"speed":3000,"frame":"0","from":"x:[175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:1;","mask":"x:[-100%];y:0;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]' style="z-index: 6; line-height:25px; font-size:15px; color:#fff; font-family: 'Open Sans', sans-serif; serif; white-space: nowrap;">La nouvelle solution de l’Expertise Comptable, qui vous donne la possibilité de <br> devenir <strong>EXPERT-COMPTABLE STAGIAIRE</strong> en 5 ans après le BAC.
 
 						</div>
 
@@ -75,15 +75,15 @@ include_once 'controller.php';
 						<img src="img/CIFEC-17.jpg" alt="Sky" class="rev-slidebg">
 						<!-- BEGIN BASIC TEXT LAYER -->
 						<!-- LAYER NR.1 -->
-						<div class="tp-caption sfr font-extra-bold tp-resizeme letter-space-4 header-1 title-line-1" data-x="left" data-hoffset="0" data-y="center" data-voffset="-140" data-frames='[{"delay":0,"speed":3000,"frame":"0","from":"x:[175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:1;","mask":"x:[-100%];y:0;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]' style="z-index: 6; font-size:60px; color:#fff; font-family: 'Montserrat', sans-serif;, serif; white-space: nowrap;font-weight:700;">Intégrez le CFGE
+						<div class="tp-caption sfr font-extra-bold tp-resizeme letter-space-4 header-1 title-line-1" data-x="left" data-hoffset="0" data-y="center" data-voffset="-140" data-frames='[{"delay":0,"speed":3000,"frame":"0","from":"x:[175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:1;","mask":"x:[-100%];y:0;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]' style="z-index: 6; font-size:60px; color:#fff; font-family: 'Montserrat', sans-serif; serif; white-space: nowrap;font-weight:700;">Intégrez le CFGE
 						</div>
 
 						<!-- LAYER NR. 2 -->
-						<div class="tp-caption sfr font-extra-bold tp-resizeme letter-space-4  header-1 title-line-2" data-x="left" data-hoffset="0" data-y="center" data-voffset="-80" data-frames='[{"delay":1000,"speed":3000,"frame":"0","from":"x:[175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:1;","mask":"x:[-100%];y:0;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]' style="z-index: 6; font-size:60px; color:#fff; font-family: 'Montserrat', sans-serif;, serif; white-space: nowrap;font-weight:700;">et devenez Expert-comptable
+						<div class="tp-caption sfr font-extra-bold tp-resizeme letter-space-4  header-1 title-line-2" data-x="left" data-hoffset="0" data-y="center" data-voffset="-80" data-frames='[{"delay":1000,"speed":3000,"frame":"0","from":"x:[175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:1;","mask":"x:[-100%];y:0;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]' style="z-index: 6; font-size:60px; color:#fff; font-family: 'Montserrat', sans-serif; serif; white-space: nowrap;font-weight:700;">et devenez Expert-comptable
 						</div>
 
 						<!-- LAYER NR. 3 -->
-						<div class="tp-caption font-lora sfb tp-resizeme letter-space-5 header-p" data-x="left" data-hoffset="0" data-y="center" data-voffset="-10" data-frames='[{"delay":0,"speed":2000,"frame":"0","from":"y:top;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]' style="z-index: 6; line-height:25px; font-size:15px; color:#fff; font-family: 'Open Sans', sans-serif;, serif; white-space: nowrap;">Préparez avec nous la LCCA et le MCCA de l’INTEC de Paris comme si vous y étiez <br> et entrez directement en stage d’expertise comptable.
+						<div class="tp-caption font-lora sfb tp-resizeme letter-space-5 header-p" data-x="left" data-hoffset="0" data-y="center" data-voffset="-10" data-frames='[{"delay":0,"speed":2000,"frame":"0","from":"y:top;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]' style="z-index: 6; line-height:25px; font-size:15px; color:#fff; font-family: 'Open Sans', sans-serif; serif; white-space: nowrap;">Préparez avec nous la LCCA et le MCCA de l’INTEC de Paris comme si vous y étiez <br> et entrez directement en stage d’expertise comptable.
 						</div>
 
 						<!-- LAYER NR. 4 -->
@@ -96,70 +96,60 @@ include_once 'controller.php';
 		</div><!-- END SLIDER CONTAINER WRAPPER -->
 	</header>
 
-
-	<section class="slider-content-bottom">
-		<div class="container">
-			<div class="row sider-btm-row-inner">
-
-				<div class="col-sm-4 content_body slide_cont_box_02" data-aos="fade-up" data-aos-delay="400">
-					<div class="slider-btm-box btm-item_02">
-						<img src="images/index-02/slide-bottom-02.png" alt="" class="btm-item-icon">
-						<h3>Formation d’excellence</h3>
-						<p style="font-size:17px">Optez pour notre formation d'excellence et développez vos compétences de manière approfondie dans les domaines de la comptabilité, la finance et l’audit.<br><br>
-						</p>
-						<!-- <a href="#">read more<i class="fa fa-long-arrow-right slider-b-btn-icon"></i></a> -->
-					</div>
-				</div>
-
-				<div class="col-sm-4 content_body slide_cont_box_01" data-aos="fade-up" data-aos-delay="500">
-					<div class="slider-btm-box btm-item_01">
-						<img src="images/index-02/slide-bottom-01.png" alt="" class="btm-item-icon">
-						<h3>Corps Professoral qualifié</h3>
-						<p style="font-size:17px">Une équipe pédagogique formée de professionnels expérimentés et dévoués à offrir une formation de qualité préparant les étudiants à réussir sereinement leurs futures
-							carrières.
-						</p>
-						<!-- <a href="#">read more<i class="fa fa-long-arrow-right slider-b-btn-icon"></i></a> -->
-					</div>
-				</div>
-
-				<div class="col-sm-4 content_body slide_cont_box_03" data-aos="fade-up" data-aos-delay="600">
-					<div class="slider-btm-box btm-item_03">
-						<img src="images/index-02/slide-bottom-03.png" alt="" class="btm-item-icon">
-						<h3>Triple reconnaissance</h3>
-						<p style="font-size:17px">Nos diplômes sont reconnus par l’Enseignement Supérieur Français, par le CAMES et l’Etat du Bénin. <br><br><br><br> </p>
-						<!-- <a href="#">read more<i class="fa fa-long-arrow-right slider-b-btn-icon"></i></a> -->
-					</div>
-				</div>
-
-			</div>
-		</div>
-	</section>
-
 	<!-- bienvenu -->
 	<section class="Welcome-area">
-		<div class="container">
-			<div class="row">
-				<div class="col-sm-6 Welcome-area-text" data-aos="zoom-in" data-aos-delay="400">
-					<div class="row">
-						<div class="col-sm-12 section-header-box">
-							<div class="section-header section-header-l">
-								<h2>Bienvenu au CFGE</h2>
-							</div><!-- ends: .section-header -->
-						</div>
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-12 section-header-box">
+				<div class="section-header">
+					<h2>Welcome to EduRead</h2>
+					<p>Lorem ipsum dolor sit amet mollis felis dapibus arcu donec viverra Pede phasellus eget Etiam maecenas.</p>
+				</div><!-- ends: .section-header -->
+			</div>
+		</div>	
+			
+		<div class="row">
+			<div class="col-sm-4 wel-ful-box-2">
+				<div class="wel-text-box">
+					<div class="wel-icon">
+						<img src="images/index-02/welcome-01.png" alt="">
 					</div>
-					<p style="font-size:17px">Le Centre de Formation à la Gestion des Entreprises de Côte d’Ivoire (CFGE), est un établissement privé d’enseignement supérieur qui propose des programmes adaptés aux mutations des secteurs de la gestion, du commerce, de la comptabilité, de l’audit et la finance et qui forme principalement  <span style="color:red; font-weight:bold;">les experts comptables.</span>
-					</p>
-					<p style="font-size:17px">Il est réputé pour ses programmes, le nombre et la qualité de ses partenaires internationaux, notamment <span>l'ESCAE DE NIAMEY</span> et le <span>CNAM  de l'INTEC</span> ses prestigieux diplômes et ses filières d'excellence.</p>
+					<div class="wel-text">
+						<h3>Learn Anywhere Online</h3>
+						<p>Lorem ipsum dolor sit amet mollis felis dapibus arcu donec viverra Pede phasellus eget Etiam maecenas.</p>
+						<a href="#">read more<i class="fa fa-long-arrow-right"></i></a>
+					</div>
+				</div>
+			</div>
 
-					<a href="a-propos.php" class="read_more-btn fa fa-long-arrow-right">En savoir plus</a>
-				</div><!-- Ends: . -->
+			<div class="col-sm-4 wel-ful-box-2">
+				<div class="wel-text-box">
+					<div class="wel-icon">
+						<img src="images/index-02/welcome-02.png" alt="">
+					</div>
+					<div class="wel-text">
+						<h3>Graduation Certificate</h3>
+						<p>Lorem ipsum dolor sit amet mollis felis dapibus arcu donec viverra Pede phasellus eget Etiam maecenas.</p>
+						<a href="#">read more<i class="fa fa-long-arrow-right"></i></a>
+					</div>
+				</div>					
+			</div>
 
-				<div class="col-sm-6 welcome-img" data-aos="zoom-in" data-aos-delay="600">
-					<img src="images/CIFEC_A_PROPOS.JPG" alt="" class="img-responsive">
-				</div><!-- Ends: . -->
+			<div class="col-sm-4  wel-ful-box-2">
+				<div class="wel-text-box">
+					<div class="wel-icon">
+						<img src="images/index-02/welcome-03.png" alt="">
+					</div>
+					<div class="wel-text">
+						<h3>Professional Teachers</h3>
+						<p>Lorem ipsum dolor sit amet mollis felis dapibus arcu donec viverra Pede phasellus eget Etiam maecenas.</p>
+						<a href="#">read more<i class="fa fa-long-arrow-right"></i></a>
+					</div>
+				</div>				
 			</div>
 		</div>
-	</section>
+	</div>
+</section>		
 
 	<!-- programmes -->
 
@@ -169,7 +159,7 @@ include_once 'controller.php';
 				<div class="col-sm-12 section-header-box" data-aos="zoom-in">
 					<div class="section-header">
 						<h2>Nos programmes de formation</h2>
-						<p style="font-size:17px">Le CFGE forme les étudiants et auditeurs à plusieurs prestigieux diplômes notamment la Licence des Sciences Techniques Comptables et Financières (LSTCF) et le
+						<p style="font-size:17px">Le CIFEC BENIN forme les étudiants et auditeurs à plusieurs prestigieux diplômes notamment la Licence des Sciences Techniques Comptables et Financières (LSTCF) et le
 							Master Comptabilité, Contrôle et Audit (MCCA) qui permettent respectivement de mieux préparer le Diplôme de Comptabilité et de Gestion (DCG) et le Diplôme Supérieur de
 							Comptabilité et de Gestion (DSCG), diplôme conférant le titre d’expert-comptable stagiaire. <br><br>
 						</p>
