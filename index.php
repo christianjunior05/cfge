@@ -49,7 +49,7 @@ include_once 'controller.php';
 					<li data-transition="boxfade" data-title="Slide Title" data-param1="Additional Text" data-thumb="img/CIFEC-18.jpg">
 						<div class="slider-overlay"></div>
 						<!-- SLIDE'S MAIN BACKGROUND IMAGE -->
-						<img src="img/CIFEC-18.jpg" alt="Sky" class="rev-slidebg">
+						<img src="img/P_accueil_CAMES.webp" alt="Sky" class="rev-slidebg">
 						<!-- BEGIN BASIC TEXT LAYER -->
 						<!-- LAYER NR. 1 -->
 						<div class="tp-caption sfr font-extra-bold tp-resizeme letter-space-4 header-1 title-line-1" data-x="left" data-hoffset="0" data-y="center" data-voffset="-140" data-frames='[{"delay":0,"speed":3000,"frame":"0","from":"x:[175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:1;","mask":"x:[-100%];y:0;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]' style="z-index: 6; font-size:60px; color:#fff; font-family: 'Montserrat', sans-serif; serif; white-space: nowrap;font-weight:700;">Bienvenu au
@@ -102,8 +102,10 @@ include_once 'controller.php';
 		<div class="row">
 			<div class="col-sm-12 section-header-box">
 				<div class="section-header">
-					<h2>Welcome to EduRead</h2>
-					<p>Lorem ipsum dolor sit amet mollis felis dapibus arcu donec viverra Pede phasellus eget Etiam maecenas.</p>
+					<h2>BIENVENU AU CFGE</h2>
+					<p>Le Centre de Formation à la Gestion des Entreprises (CFGE) de la Côte d'Ivoire, 
+						est une grande école spécialisée dans les métiers de la comptabilité,
+					    le contrôle de gestion, l’audit et la finance et qui forme principalement les experts comptables. </p>
 				</div><!-- ends: .section-header -->
 			</div>
 		</div>	
@@ -115,9 +117,9 @@ include_once 'controller.php';
 						<img src="images/index-02/welcome-01.png" alt="">
 					</div>
 					<div class="wel-text">
-						<h3>Learn Anywhere Online</h3>
-						<p>Lorem ipsum dolor sit amet mollis felis dapibus arcu donec viverra Pede phasellus eget Etiam maecenas.</p>
-						<a href="#">read more<i class="fa fa-long-arrow-right"></i></a>
+						<h3>Formation d’excellence</h3>
+						<p>Optez pour notre formation d'excellence et développez vos compétences de manière
+						   approfondie dans les domaines de la comptabilité, la finance et l’audit.</p>
 					</div>
 				</div>
 			</div>
@@ -128,9 +130,9 @@ include_once 'controller.php';
 						<img src="images/index-02/welcome-02.png" alt="">
 					</div>
 					<div class="wel-text">
-						<h3>Graduation Certificate</h3>
-						<p>Lorem ipsum dolor sit amet mollis felis dapibus arcu donec viverra Pede phasellus eget Etiam maecenas.</p>
-						<a href="#">read more<i class="fa fa-long-arrow-right"></i></a>
+						<h3 class="text-color">Corps Professoral qualifié</h3>
+						<p>Une équipe pédagogique formée de professionnels expérimentés et dévoués à offrir une formation 
+						   de qualité préparant les étudiants à réussir sereinement leurs futures carrières. </p>
 					</div>
 				</div>					
 			</div>
@@ -140,10 +142,9 @@ include_once 'controller.php';
 					<div class="wel-icon">
 						<img src="images/index-02/welcome-03.png" alt="">
 					</div>
-					<div class="wel-text">
-						<h3>Professional Teachers</h3>
-						<p>Lorem ipsum dolor sit amet mollis felis dapibus arcu donec viverra Pede phasellus eget Etiam maecenas.</p>
-						<a href="#">read more<i class="fa fa-long-arrow-right"></i></a>
+					<div class="wel-text ">
+						<h3>Triple reconnaissance</h3>
+						<p>Nos diplômes sont reconnus par l’Enseignement Supérieur Français, par le CAMES et l’Etat de Côte d'Ivoire. </p>
 					</div>
 				</div>				
 			</div>
@@ -159,7 +160,7 @@ include_once 'controller.php';
 				<div class="col-sm-12 section-header-box" data-aos="zoom-in">
 					<div class="section-header">
 						<h2>Nos programmes de formation</h2>
-						<p style="font-size:17px">Le CIFEC BENIN forme les étudiants et auditeurs à plusieurs prestigieux diplômes notamment la Licence des Sciences Techniques Comptables et Financières (LSTCF) et le
+						<p style="font-size:17px">Le CFGE forme les étudiants et auditeurs à plusieurs prestigieux diplômes notamment la Licence des Sciences Techniques Comptables et Financières (LSTCF) et le
 							Master Comptabilité, Contrôle et Audit (MCCA) qui permettent respectivement de mieux préparer le Diplôme de Comptabilité et de Gestion (DCG) et le Diplôme Supérieur de
 							Comptabilité et de Gestion (DSCG), diplôme conférant le titre d’expert-comptable stagiaire. <br><br>
 						</p>
@@ -168,39 +169,13 @@ include_once 'controller.php';
 			</div>
 
 			<div class="row courses-r-margin-bottom">
-				<!-- <div class="col-sm-6 col-md-3 single-courses-box" data-aos="zoom-in" data-aos-delay="400">
-					<div class="single-courses">
-						<figure>
-							<a href="">
-								<div class="figure-img">
-									<img src="images/Programme_National.jpeg" class="img-responsive">
-								</div>
-							</a>
-						</figure>
-						<div class="courses-content-box">
-							<div class="courses-content">
-								<h3> Programme National</h3>
-								<a href="#">
-									<p class="data-comment"><i class="fa fa-long-arrow-right footer-icon"></i> Licence Nationale</p>
-								</a>
-								<a href="#">
-									<p class="data-comment"><i class="fa fa-long-arrow-right footer-icon"></i> LFCA</p>
-								</a>
-								<div class="d-none d-md-block">
-									<p class="data-comment"><br><br><br><br></p>
-								</div>
-
-							</div>
-						</div>
-					</div>
-				</div> -->
 
 				<div class="col-sm-6 col-md-4 single-courses-box" data-aos="zoom-in" data-aos-delay="400">
 					<div class="single-courses">
 						<figure>
 							<a href="">
 								<div class="figure-img">
-									<img src="images/Programme_CAMES.jpeg" class="img-responsive">
+									<img src="images/P_accueil_CAMES.webp" class="img-responsive">
 								</div>
 							</a>
 						</figure>
@@ -226,7 +201,7 @@ include_once 'controller.php';
 						<figure>
 							<a href="">
 								<div class="figure-img">
-									<img src="images/Programme_Français.jpg" class="img-responsive">
+									<img src="images/P_accueil_PG_FR.jpg" class="img-responsive">
 								</div>
 							</a>
 						</figure>
@@ -258,7 +233,7 @@ include_once 'controller.php';
 						<figure>
 							<a href="">
 								<div class="figure-img">
-									<img src="img/spe.jpg" alt="" class="img-responsive">
+									<img src="img/x.jpeg" alt="" class="img-responsive">
 								</div>
 							</a>
 						</figure>
@@ -355,7 +330,7 @@ include_once 'controller.php';
 					<div class="events-single-box">
 						<div class="row">
 							<div class="col-sm-12">
-								<img src="images/Bacheliers.jpg" alt="" class="img-responsive">
+								<img src="images/P_accueil_Nvx bacheliers.jpg" alt="" class="img-responsive">
 								<div class="event-info">
 									<h3>Nouveaux bacheliers</h3>
 									<p style="font-size:17px">Candidats intéressés par les métiers
@@ -376,7 +351,7 @@ include_once 'controller.php';
 					<div class="events-single-box">
 						<div class="row">
 							<div class="col-sm-12">
-								<img src="images/Titulaires_BAC_2_3.jpeg" alt="" class="img-responsive">
+								<img src="images/P_accueil_titu_bac+2.jpg" alt="" class="img-responsive">
 								<div class="event-info">
 
 									<h3>Titulaires d’un BAC+2, 3</h3>
@@ -395,7 +370,7 @@ include_once 'controller.php';
 					<div class="events-single-box">
 						<div class="row">
 							<div class="col-sm-12">
-								<img src="images/Professionnels.jpg" alt="" class="img-responsive">
+								<img src="images/P_accueil_vous_etes_pro.jpg" alt="" class="img-responsive">
 								<div class="event-info">
 
 									<h3>Vous êtes un professionnel</h3>
@@ -573,14 +548,13 @@ include_once 'controller.php';
 							<div class="row">
 								<div class="col-sm-12 section-header-box">
 									<div class="section-header section-header-l">
-										<h2>Devenez partenaire du CIFEC Bénin</h2>
+										<h2>Devenez partenaire du CFGE</h2>
 									</div>
 								</div>
 							</div>
-							<p style="font-size:17px">Classé parmi les meilleures écoles de Comptabilité au Bénin, le CIFEC est depuis toujours engagé dans la formation de gestionnaires de haut niveau, immédiatement
+							<p style="font-size:17px">Classé parmi les meilleures écoles de Comptabilité en Côte d'Ivoire, le CFGE est depuis toujours engagé dans la formation de gestionnaires de haut niveau, immédiatement
 								opérationnels, aptes à comprendre les exigences de l’entreprise et à répondre à ses priorités. En devenant partenaire de notre école, vous trouverez ce que votre
-								entreprise recherche : Stagiaires, jeunes diplômés, experts-comptables stagiaires, formations continues). <br><br>
-								<!-- <a class="btn btn-warning" href="">En savoir plus</a> -->
+								entreprise recherche : Stagiaires, jeunes diplômés, experts-comptables stagiaires, formations continues. <br><br>
 							</p>
 						</div>
 					</div>
@@ -588,101 +562,6 @@ include_once 'controller.php';
 			</div>
 		</section>
 	</div>
-
-	<!-- temoignages -->
-	<!-- <section class="students-say-area">
-		<div class="container">
-			<div class="row">
-				<div class="col-sm-12 section-header-box" data-aos="zoom-in" data-aos-delay="400">
-					<div class="section-header">
-						<h2>What Students Parent SAY</h2>
-					</div>
-				</div>
-			</div>
-
-			<div class="row" data-aos="zoom-in" data-aos-delay="600">
-				<div class="img-full-box">
-					<div class="col-sm-3 col-sm-offset-4">
-						<div class="carousel-images slider-nav">
-							<div>
-								<img src="images/index/stu-parent-01.jpg" alt="1" class="img-responsive img-circle">
-							</div>
-							<div>
-								<img src="images/index/stu-parent-02.jpg" alt="2" class="img-responsive img-circle">
-							</div>
-							<div>
-								<img src="images/index/stu-parent-03.jpg" alt="3" class="img-responsive img-circle">
-							</div>
-							<div>
-								<img src="images/index/stu-parent-04.jpg" alt="3" class="img-responsive img-circle">
-							</div>
-						</div>
-					</div>
-				</div>
-
-				<div class="col-sm-8 col-sm-offset-2">
-					<div class="carousel-text slider-for">
-						<div class="single-box">
-							<p>Lorem ipsum dolor sit amet, consecteituer adipiscing eluit, sed diapm nonummy nibh euismod tincidunt ut laoreet dolor you magna aliquam eratm volutpat. Ut wisiyp oenim
-								adefra miniumyp veniam, quis nostrud exerci tation ullavolutpat ipsum.</p>
-							<ul class="list-unstyled rank-icons">
-								<li><i class="fa fa-star"></i></li>
-								<li><i class="fa fa-star"></i></li>
-								<li><i class="fa fa-star"></i></li>
-								<li><i class="fa fa-star"></i></li>
-								<li><i class="fa fa-star"></i></li>
-							</ul>
-							<h3>Jhonthan Smith</h3>
-							<span>Alexis, Parents</span>
-						</div>
-
-						<div class="single-box">
-							<p>Maecenas ut dui vitae magna vestibulum fermentum ut non est. Fusce finibus viverra enim, et laoreet metus fringilla sit amet. Ut dui nunc, aliquet ut malesuada sit amet,
-								sagittis aliquam laoreet lorem. In hac habitasse platea dictumst.</p>
-							<ul class="list-unstyled rank-icons">
-								<li><i class="fa fa-star"></i></li>
-								<li><i class="fa fa-star"></i></li>
-								<li><i class="fa fa-star"></i></li>
-								<li><i class="fa fa-star"></i></li>
-								<li><i class="fa fa-star"></i></li>
-							</ul>
-							<h3>Jhon Doe</h3>
-							<span>Martin, Parent</span>
-						</div>
-
-						<div class="single-box">
-							<p>Aenean at leo hendrerit, congue erat ut, volutpat felis. Suspendisse et sapien purus. Aenean tincidunt diam ac magna scelerisque dapibus. Quisque non elit et justo
-
-								tristique semper. Sed a urna eros. Etiam tempus tempus leo vel aliquam.</p>
-							<ul class="list-unstyled rank-icons">
-								<li><i class="fa fa-star"></i></li>
-								<li><i class="fa fa-star"></i></li>
-								<li><i class="fa fa-star"></i></li>
-								<li><i class="fa fa-star"></i></li>
-								<li><i class="fa fa-star"></i></li>
-							</ul>
-							<h3>Jhonthan Smith</h3>
-							<span>Alexis, Parents</span>
-						</div>
-
-						<div class="single-box">
-							<p>Cras ut ipsum et erat accumsan aliquam. Cras feugiat eu dolor a imperdiet. Vestibulum ornare, nunc a pulvinar pellentesque, mi ipsum elementum velit, lobortis convallis
-								lacus ipsum eget nisl. Mauris eget est lorem praesent et metus laoreet.</p>
-							<ul class="list-unstyled rank-icons">
-								<li><i class="fa fa-star"></i></li>
-								<li><i class="fa fa-star"></i></li>
-								<li><i class="fa fa-star"></i></li>
-								<li><i class="fa fa-star"></i></li>
-								<li><i class="fa fa-star"></i></li>
-							</ul>
-							<h3>Jessica Alaba</h3>
-							<span>Martin, Parent</span>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section> -->
 
 	<!-- Start News Area section -->
 	<section class="news-area">
@@ -775,7 +654,7 @@ include_once 'controller.php';
 						<h2>Nos Partenaires</h2>
 						<p style="font-size:17px">Les principaux partenaires du CFGE sont la prestigieuse Ecole Supérieure de
 							Commerce et d’Administration des Entreprises (ESCAE) située à Niamey au NIGER
-							dont le Fondateur, Directeur Général est Mr Victor AKESSE, Expert-Comptable et
+							dont le Fondateur, Directeur Général est Mr Guillaume AKESSE, Expert-Comptable et
 							l’Institut National des Techniques Economiques et Comptables (INTEC) de Paris.
 							Viennent par la suite :
 							L’Institut international de formation à l’expertise comptable (2IFEC) du Burkina
@@ -787,7 +666,7 @@ include_once 'controller.php';
 			<div class="row">
 				<div class="col-md-3" data-aos="zoom-in" data-aos-delay="600"><img src="img/partner-02.png" alt=""></div>
 				<div class="col-md-3" data-aos="zoom-in" data-aos-delay="800"><img src="img/partner-04.png" alt=""></div>
-				<div class="col-md-3" data-aos="zoom-in" data-aos-delay="1000"><img src="img/partner-03.png" alt=""></div>
+				<div class="col-md-3" data-aos="zoom-in" data-aos-delay="1000"><img class="img" src="img/logo.jpg" alt=""></div>
 				<div class="col-md-3" data-aos="zoom-in" data-aos-delay="1200"><img src="img/partner-01.png" alt=""></div>
 			</div>
 
