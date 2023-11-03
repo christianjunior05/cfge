@@ -25,7 +25,7 @@ include_once 'controller.php';
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>
                         </button>
-                        <a href="#" class="navbar-brand  data-scroll"><img src="" alt=""><span>CIFEC LOGO</span></a>
+                        <?php include_once 'includes/logo.php'; ?>
                     </div>
 
                     <div class="collapse navbar-collapse edu-nav main-menu" id="bs-example-navbar-collapse-1">
@@ -62,7 +62,7 @@ include_once 'controller.php';
                                 <span><a href="#" class="overlay"></a></span>
                             </div>
                             <div class="single-text-box">
-                                <p style="font-size:17px" data-aos="zoom-in" data-aos-delay="500">L'Administration du CIFEC BENIN est organisée en services pour une bonne satisfaction des usagers.
+                                <p style="font-size:17px" data-aos="zoom-in" data-aos-delay="500">L'Administration du CFGE est organisée en services pour une bonne satisfaction des usagers.
                                     Nous disposons d’une équipe complète avec des compétences multiples, pour un
                                     accompagnement au quotidien de nos étudiants dans la formation aux métiers de
                                     la comptabilité, de la gestion et de la finance.
@@ -81,7 +81,7 @@ include_once 'controller.php';
                             </div>
                             <div class="single-text-box">
                                 <p style="font-size:17px" data-aos="zoom-in" data-aos-delay="500">Fiscalité, Finance, Comptabilité, Droit, Management, Systèmes d’Information
-                                    ou encore Anglais des affaires, le corps professoral présent au CIFEC BENIN
+                                    ou encore Anglais des affaires, le corps professoral présent au CFGE
                                     porte la formation initiale et continue de l’Ecole à son niveau d’excellence.
                                     Nos formations s’appuient sur les compétences d’une équipe enseignante
                                     expérimentée à la pointe de la science, des techniques, de la technologie,
@@ -100,7 +100,7 @@ include_once 'controller.php';
                         <div class="row">
                             <div class="col-sm-12">
                                 <div class="categories-item">
-                                    <h3>Le CIFEC Bénin</h3>
+                                    <h3>Le CFGE</h3>
                                     <ul class="list-unstyled">
                                         <li style="font-size:17px"><a href="about.php"><i class="fa fa-angle-right"></i>A Propos </a></li>
                                         <li style="font-size:17px"><a href="mission-valeur.php"><i class="fa fa-angle-right"></i>Missions et Valeurs</a></li>
@@ -109,20 +109,6 @@ include_once 'controller.php';
                                 </div>
                             </div>
                         </div>
-
-                        <!-- <div class="row" data-aos="zoom-in" data-aos-delay="400">
-                            <div class="col-sm-12">
-                                <div class="categories-item">
-                                    <h3>Nos Programmes</h3>
-                                    <ul class="list-unstyled">
-                                        <li><a href=""><i class="fa fa-angle-right"></i>CAMES </a></li>
-                                        <li><a href=""><i class="fa fa-angle-right"></i>National</a></li>
-                                        <li><a href=""><i class="fa fa-angle-right"></i>Français</a></li>
-                                        <li><a href=""><i class="fa fa-angle-right"></i>Certificats de Spécialisation</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div> -->
 
                         <div class="row">
                             <div class="col-sm-12">

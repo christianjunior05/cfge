@@ -11,7 +11,7 @@
                         <li><span><i class="fa fa-phone footer-icon"></i></span>(+225) 05 56 18 54 34 <br></li>
                         <li><span><i class="fa fa-envelope footer-icon"></i></span>infos@cfge.ci</li>
                         <li><span><i class="fa fa-envelope footer-icon"></i></span>ABIDJAN COCODY 2 PLATEAUX SIDECI</li>
-                        <li><span><i class="fa fa-map-marker footer-icon"></i></span>Carrefour Duncan àrès la CEI <br><br>Rue K112 villa 18</li>
+                        <li><span><i class="fa fa-map-marker footer-icon"></i></span>Carrefour Duncan après la CEI <br><br>Rue K112 villa 18</li>
                     </ul>
                 </div>
 

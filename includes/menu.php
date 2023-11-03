@@ -1,5 +1,11 @@
 <li class="<?php echo ($current_page === 'index.php') ? 'active' : ''; ?>"><a data-scroll href="index.php">Accueil</a></li>
 <li class="<?php echo ($current_page === 'about.php' || $current_page === 'mission-valeur.php' || $current_page === 'team.php') ? 'active' : ''; ?>"><a data-scroll="" href="">Le CFGE</a>
+<ul class="dropdown list-unstyled">
+        <li><a href="about.php">A Propos</a></li>
+        <li><a href="mission-valeur.php">Missions et Valeurs</a></li>
+        <li><a href="team.php">Une équipe à votre service</a></li>
+    </ul>
+</li>
 <li class="<?php echo ($current_page === 'lstcf.php' || $current_page === 'mcca-escae.php' || $current_page === 'dcg.php' || $current_page === 'dscg.php' || $current_page === 'lcca.php' || $current_page === 'gestion.php' || $current_page === 'mcca-intec.php' || $current_page === 'audit.php' || $current_page === 'auditsy.php' || $current_page === 'comptabilite.php' || $current_page === 'lcca.php') ? 'active' : ''; ?>"><a data-scroll="" href="">NOS PROGRAMMES</a>
     <ul class="dropdown list-unstyled">
         <li class="dropdown-list-box-02"><a href="#">CAMES<i class="fa fa-angle-right menu-icon"></i></a>

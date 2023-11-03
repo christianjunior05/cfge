@@ -35,7 +35,7 @@ include_once 'controller.php';
                 <div class="row">
                     <div class="col-md-12">
                         <div class="intro-text ">
-                            <h1>Gestion</h1>
+                            <h1>Gestion des associations</h1>
                         </div>
                     </div>
                 </div><!-- /.row -->

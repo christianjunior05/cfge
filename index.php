@@ -233,7 +233,7 @@ include_once 'controller.php';
 						<figure>
 							<a href="">
 								<div class="figure-img">
-									<img src="img/x.jpeg" alt="" class="img-responsive">
+									<img src="img/y.jpg" alt="" class="img-responsive">
 								</div>
 							</a>
 						</figure>
@@ -241,16 +241,16 @@ include_once 'controller.php';
 							<div class="courses-content">
 								<h3>Certificats de Spécialisation</h3>
 								<a href="audit.php">
-									<p style="font-size:17px"><i class="fa fa-long-arrow-right footer-icon"></i> Audit et contrôle légal des comptes</p>
+									<p style="font-size:17px"><i class="fa fa-long-arrow-right footer-icon"></i>Audit et contrôle légal des comptes</p>
 								</a>
 								<a href="gestion.php">
 									<p style="font-size:17px"><i class="fa fa-long-arrow-right footer-icon"></i> Gestion des associations </p>
 								</a>
 								<a href="comptabilite-intec.php">
-									<p style="font-size:17px"><i class="fa fa-long-arrow-right footer-icon"></i> Comptabilité internationale</p>
+									<p style="font-size:17px"><i class="fa fa-long-arrow-right footer-icon"></i>Comptabilité internationale</p>
 								</a>
 								<a href="auditsy.php">
-									<p style="font-size:17px"><i class="fa fa-long-arrow-right footer-icon"></i> Audit des SI</p>
+									<p style="font-size:17px"><i class="fa fa-long-arrow-right footer-icon"></i>Audit des SI</p>
 								</a>
 
 							</div>

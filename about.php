@@ -56,65 +56,31 @@ include_once 'controller.php';
 
                             <p style="font-size:17px" data-aos="zoom-in" data-aos-delay="400">
                                 <em>
-                                    Un expert-comptable est un professionnel de la comptabilité, <strong>"le médecin des entreprises</strong>, qui dans une structure ou entreprise, tient, contrôle, surveille et redresse
-                                    la comptabilité de l’entité juridique ou de l’entreprise pour laquelle il travaille. Il établit les
-                                    bilans et comptes de résultats des entreprises, des artisans, des établissements, des
-                                    agriculteurs et tous métiers qui génèrent des bénéfices.
+                                Le CFGE est la seule Ecole aujourd’hui à vous offrir cette opportunité en Côte d’Ivoire. Il constitue la nouvelle clé qui vous ouvre les portes de l’expertise comptable. Devenez donc avec cette école, expert-comptable mémorialiste en cinq ans après votre BAC.
                                 </em>
                             </p>
-                            <p style="font-size:17px" data-aos="zoom-in" data-aos-delay="400">
-                                Le CIFEC Bénin offre une grande opportunité dans ce domaine de formation ; il vous
-                                propose de préparer le Diplôme de Comptabilité et de Gestion (DCG, niveau licence) et
-                                le diplôme Supérieur de Comptabilité et de Gestion (DSCG, niveau master) de l’Etat
-                                français à travers : <br>
-                                <a href="lstcf.php"><strong><i class="fa fa-angle-right"></i> la Licence des Sciences Techniques Comptables et Financières (LSTCF),</strong></a> <br>
-                                <a href="mcca-escae.php"><strong><i class="fa fa-angle-right"></i> et le Master Comptabilité, Contrôle, Audit (MCCA) de l’ESCAE de Niamey en
-                                        seulement cinq ans après le BAC.</strong></a> <br>
-
-                            </p>
-                            <p style="font-size:17px" data-aos="zoom-in" data-aos-delay="400">
-                                La LSTCF (BAC +3) et le MCCA (BAC +5) sont deux diplômes à forte valeur ajoutée,
-                                délivrés par I ‘Ecole Supérieure de Commerce et d’Administration des Entreprises
-                                (ESCAE) de Niamey au NIGER avec laquelle est en partenariat le CIFEC Bénin.
-                            </p>
-                            <p style="font-size:17px" data-aos="zoom-in" data-aos-delay="400">
-                                Ces (2) diplômes sont reconnus par le ministère de l’enseignement supérieur français et
-                                le CAMES. Le MCCA permet à son détenteur d’obtenir, le Diplôme Supérieur de
-                                Comptabilité et de Gestion DSCG lui conférant le titre d’Expert-Comptable mémorialiste.
-                            </p>
-                            <p style="font-size:17px" data-aos="zoom-in" data-aos-delay="400">
-                                Le CIFEC Bénin est la seule Ecole aujourd’hui à vous offrir cette opportunité au Bénin. Il
-                                constitue la nouvelle clé qui vous ouvre les portes de l’expertise comptable.
-                                Devenez donc avec cette école, expert-comptable mémorialiste en cinq ans après votre
-                                BAC.
-                            </p>
+            
 
                         </div>
 
                         <!-- Pourquoi le CIFEC au Bénin? -->
                         <div class="description-content">
-                            <h2 data-aos="zoom-in" data-aos-delay="400">Pourquoi le CIFEC au Bénin?</h2>
-                            <p style="font-size:17px" data-aos="zoom-in" data-aos-delay="400">Le CIFEC est un centre de formation au diplôme d’expertise comptable. Son implantation
-                                au Bénin vise quatre (4) objectifs essentiels :</p>
+                            <h2 data-aos="zoom-in" data-aos-delay="400">Pourquoi le CFGE est en Côte d'Ivoire?</h2>
+                            <p style="font-size:17px" data-aos="zoom-in" data-aos-delay="400">Le CFGE est un établissement privé d’enseignement supérieur qui propose des programmes adaptés aux mutations des secteurs de la gestion, du commerce, de la comptabilité, de l’audit et la finance et qui forme principalement les experts comptables. </p>
 
                             <div class="count-list" data-aos="zoom-in" data-aos-delay="400">
                                 <!-- <h3></h3> -->
+                                Son implementation en Côte d'Ivoire vise (4) objectifs essentiels :
                                 <ol class="list-unstyled">
-                                    <li style="font-weight : bold; font-size:17px">Permettre aux nouveaux bacheliers d’obtenir en temps record le titre d’expert-
-                                        comptable stagiaire selon Ie système Français avec les meilleures conditions de
-                                        succès (5 ans maximum après le BAC) ;
+                                    <li style="font-weight : bold; font-size:17px">1.	Permettre aux nouveaux bacheliers d’obtenir en un temps record le titre d’expert-comptable mémorialiste selon Ie système français avec les meilleures conditions de succès (5 ans maximum après le BAC) ;
                                     </li> <br>
 
-                                    <li style="font-weight : bold;font-size:17px">Offrir les meilleures conditions de succès aux étudiants déjà engagés dans les
-                                        études d’expertise comptable selon le système Français ;
+                                    <li style="font-weight : bold;font-size:17px">2.	Offrir les meilleures conditions de succès aux étudiants déjà engagés dans les études d’expertise comptable selon le système Français ; ;
                                     </li> <br>
 
-                                    <li style="font-weight : bold;font-size:17px">Permettre aux auditeurs et étudiants ayant renoncé à ces études d’expertise
-                                        comptable d’y revenir et les reprendre avec les meilleures conditions de succès ;
+                                    <li style="font-weight : bold;font-size:17px">3.	Permettre aux auditeurs et étudiants ayant renoncé à leurs études d’expertise comptable d’y revenir et de les reprendre avec les meilleures conditions de succès ;;
                                     </li> <br>
-                                    <li style="font-weight : bold;font-size:17px">Permettre aux diplômés des universités et autres grandes écoles d’accéder à la
-                                        formation d’expertise compta bien sans reprendre l’intégralité des unités
-                                        d’enseignement.
+                                    <li style="font-weight : bold;font-size:17px">4.	Permettre aux diplômés des universités et autres grandes écoles d’accéder à la formation d’expertise comptable bien sans reprendre l’intégralité des unités d’enseignement.
                                     </li>
 
                                 </ol>
@@ -124,13 +90,14 @@ include_once 'controller.php';
 
                         <!-- Comment devenir Expert-comptable -->
                         <div class="description-content">
-                            <h2 data-aos="zoom-in" data-aos-delay="400">Comment devenir Expert-comptable mémorialiste au CIFEC?</h2>
+                            <h2 data-aos="zoom-in" data-aos-delay="400">Comment devenir Expert-comptable mémorialiste au CFGE?</h2>
                             <p></p>
                             <div class="requirements">
                                 <!-- <h3>Première passerelle</h3> -->
-                                <span data-aos="zoom-in" data-aos-delay="400" style="font-size:17px">Avec les diplômes de I’ESCAE de Niamey préparés au CIFEC Bénin, vous suivez :</span>
+                                <span data-aos="zoom-in" data-aos-delay="400" style="font-size:17px">Avec les diplômes de I’ESCAE de Niamey préparés au CFGE, vous suivez :</span>
                                 <div class="courses">
                                     <div class="courses-03">
+
                                         <div class="col-sm-6 single-courses-box" data-aos="zoom-in" data-aos-delay="400">
                                             <div class="single-courses">
                                                 <div class="courses-content">
@@ -323,29 +290,11 @@ include_once 'controller.php';
                             <p></p>
                             <div class="requirements" style="font-size:17px">
                                 <!-- <h3>Première passerelle</h3> -->
-                                <span data-aos="zoom-in" data-aos-delay="400"> Le CIFEC Bénin propose une gamme complète et unique de programmes à destination
+                                <span data-aos="zoom-in" data-aos-delay="400"> Le CFGE propose une gamme complète et unique de programmes à destination
                                     d'étudiants et de dirigeants à haut potentiel.</span> <br><br>
 
                                 <div class="courses">
                                     <div class="courses-03">
-                                        <!-- <div class="col-sm-3 single-courses-box" data-aos="zoom-in" data-aos-delay="400">
-                                            <div class="single-courses">
-                                                <div class="courses-content">
-                                                    <h3>Programme National</h3>
-                                                    <ul class="list-unstyled">
-                                                        <a href="">
-                                                            <li style="font-size:17px">Licence Nationale</li>
-                                                        </a>
-                                                        <br>
-                                                        <a href="">
-                                                            <li style="font-size:17px">LFCA</li>
-                                                        </a>
-                                                        <br><br>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                        </div> -->
-
                                         <div class="col-sm-4 single-courses-box" data-aos="zoom-in" data-aos-delay="600">
                                             <div class="single-courses">
                                                 <div class="courses-content">
@@ -357,8 +306,6 @@ include_once 'controller.php';
                                                         <a href="mcca-escae.php">
                                                             <li style="font-size:17px">MCCA de I’ESCAE Niamey</li>
                                                         </a> <br><br><br><br><br>
-
-
                                                     </ul>
                                                 </div>
                                             </div>
