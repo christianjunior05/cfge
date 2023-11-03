@@ -45,7 +45,7 @@
                     <h3>Centres associés</h3>
                     <ul class="list-unstyled">
                         <li><a href="#"><span><i class="fa fa-long-arrow-right footer-icon"></i></span>ESCAE Niamey</a></li>
-                        <li><a href="#"><span><i class="fa fa-long-arrow-right footer-icon"></i></span>CFGE Côte d'Ivoire</a></li>
+                        <li><a href="#"><span><i class="fa fa-long-arrow-right footer-icon"></i></span>CIFEC Benin</a></li>
                         <li><a href="#"><span><i class="fa fa-long-arrow-right footer-icon"></i></span>2IFEC Burkina Faso</a></li>
                     </ul>
                     <br>
