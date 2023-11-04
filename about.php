@@ -282,6 +282,9 @@ include_once 'controller.php';
                                             </tbody>
                                         </table>
                                     </div>
+                                    <div class="col-sm-5">
+                                        <img src="images/about.jpg" alt="" class="img-responsive" data-aos="zoom-in" data-aos-delay="400">
+                                    </div>
                                 </div>
 
                             </div>
