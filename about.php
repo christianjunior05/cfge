@@ -100,7 +100,7 @@ include_once 'controller.php';
 
                                         <div class="col-sm-6 single-courses-box" data-aos="zoom-in" data-aos-delay="400">
                                             <div class="single-courses">
-                                                <div class="courses-content">
+                                                <div class="courses-content content-1">
                                                     <h3>(03) années de formation après le Bac pour obtenir deux (02) diplômes
                                                         prestigieux de niveau Licence dans le système LMD :</h3>
                                                     <br>
@@ -121,7 +121,7 @@ include_once 'controller.php';
 
                                         <div class="col-sm-6 single-courses-box" data-aos="zoom-in" data-aos-delay="600">
                                             <div class="single-courses">
-                                                <div class="courses-content">
+                                                <div class="courses-content content-2">
                                                     <h3>(02) années de formation après le DCG et/ou la LSTCF de I’ESCAE Niger
                                                         pour obtenir deux prestigieux diplômes de niveau master dans le système
                                                         LMD :</h3>
@@ -137,6 +137,8 @@ include_once 'controller.php';
                                                     </ul>
                                                 </div>
                                             </div><!-- Ends: .single courses -->
+                                            <br>
+                                            <br>
                                         </div>
                                     </div>
 
@@ -150,13 +152,13 @@ include_once 'controller.php';
                         <div class="description-content">
                             <p>.</p>
                             <div class="requirements">
-                                <h3 data-aos="zoom-in" data-aos-delay="400">PROCEDURE D’OBTENTION DES DIPLOMES DELIVRES PAR L’INTEC DE PARIS</h3>
-
+                                   <h3 data-aos="zoom-in" data-aos-delay="400">PROCEDURE D’OBTENTION DES DIPLOMES DELIVRES PAR L’INTEC DE PARIS</h3>
+                               
                                 <div class="courses">
                                     <div class="courses-03">
                                         <div class="col-sm-6 single-courses-box" data-aos="zoom-in" data-aos-delay="400">
                                             <div class="single-courses">
-                                                <div class="courses-content">
+                                                <div class="courses-content content-3">
                                                     <h3>Pour l’obtention du DGC :</h3>
                                                     <div class="count-list" style="font-size:17px">
 
@@ -187,7 +189,7 @@ include_once 'controller.php';
 
                                         <div class="col-sm-6 single-courses-box" data-aos="zoom-in" data-aos-delay="600">
                                             <div class="single-courses">
-                                                <div class="courses-content">
+                                                <div class="courses-content content-4">
                                                     <h3>Pour l’obtention du DSGC :</h3>
                                                     <div class="count-list" style="font-size:17px">
                                                         <!-- <h3>Learning Outcomes</h3> -->
@@ -208,13 +210,15 @@ include_once 'controller.php';
                                                         </ol>
                                                         <!-- NB : Le DGC INTEC vous permet de faire la demande pour obtenir le
                                                             DCG de l’Etat Français. -->
-                                                        <br><br><br>
+                                                        <br><br>
                                                         <h4 style="color:red">DSGC INTEC = DSCG ETAT FRANÇAIS</h4>
                                                         <br>
                                                     </div>
 
                                                 </div>
                                             </div>
+                                            <br>
+                                            <br>
                                         </div>
                                     </div>
 
@@ -222,7 +226,7 @@ include_once 'controller.php';
 
                                 <p>.</p>
                                 <div class="col-sm-12">
-                                    <div class="col-sm-8">
+                                    <div class="col-sm-7">
                                         <table class="table" data-aos="zoom-in" data-aos-delay="400" style="font-size:17px">
                                             <thead>
                                                 <tr>
