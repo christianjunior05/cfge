@@ -5,7 +5,7 @@
     <meta name="keywords" content="college, education, institute, responsive, school, teacher, template, university">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Cfge</title>
-    <link rel="shortcut icon" href="img/fav.jpg" type="image/x-icon">
+    <link rel="shortcut icon" href="images/1.jpg" type="image/x-icon">
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="css/assets/bootstrap.min.css">
     <!-- Font Awesome -->

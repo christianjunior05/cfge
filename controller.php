@@ -5,7 +5,7 @@ include_once 'config.php';
 if (isset($_POST['login'])) {
     if (!empty($_POST['username']) and !empty($_POST['password'])) {
         $username = htmlspecialchars($_POST['username']);
-        // $password = sha1($_POST['password']);
+        $password = sha1($_POST['password']);
         $password = $_POST['password'];
         $select_compte = $conn->prepare('SELECT * FROM users WHERE username=? AND pass=?');
         $select_compte->execute(array($username, $password));
@@ -144,10 +144,10 @@ if (isset($_POST['nl'])) {
 }
 
 // contact
-if (isset($_POST['contacter'])) {
-    $nom = htmlspecialchars($_POST["nom"]) ;
+/*if (isset($_POST['contacter'])) {
+    $nom = htmlspecialchars($_POST["name"]) ;
     $email = htmlspecialchars($_POST["email"]) ;
-    $sujet = htmlspecialchars($_POST["sujet"]) ;
+    $sujet = htmlspecialchars($_POST["subject"]) ;
     $message = htmlspecialchars($_POST["message"]) ;
 
     $destinataire = "votre@email.com";
@@ -164,6 +164,6 @@ if (isset($_POST['contacter'])) {
     // Rediriger l'utilisateur vers une page de confirmation
     header("Location: contact.php");
     exit;
-}
+}*/
 
 $conn = null;

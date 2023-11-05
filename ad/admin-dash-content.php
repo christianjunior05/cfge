@@ -122,6 +122,48 @@
 
             </div>
         </div>
+
+        <br><br>
+
+        <!-- Messages -->
+        <div class="col-12">
+            <div class="card recent-sales overflow-auto">
+                <div class="card-body" id="preinscription">
+                    <h5 class="card-title">Messages réçus</h5>
+
+                    <table class="table table-borderless datatable">
+                        <thead>
+                            <tr>
+                                <th scope="col">#</th>
+                                <th scope="col">Nom</th>
+                                <th scope="col">Email</th>
+                                <th scope="col">Sujet</th>
+                                <th scope="col">Message</th>
+                                <th scope="col">Action</th>
+                            </tr> 
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <?php
+
+                                $i = 1;
+                                foreach ($result as $row) { ?>
+                                    <th scope="row"><?= $i; ?></th>
+                                    <td><?= $row['jour']; ?></td>
+                                    <td><?= $row['nom'] . " " . $row['prenom']; ?></td>
+                                    <td><?= $row['niveau']; ?></td>
+                                    <td><?= $row['formation']; ?></td>
+                                    <td><a class="btn btn-sm btn-outline-primary" href="detail-pre.php?voir=<?= $row['id'] ?>">Details</a></td>
+                            </tr>
+                        <?php $i++;
+                                } ?>
+                        </tbody>
+                    </table>
+
+                </div>
+
+            </div>
+        </div>
     </section>
 
 </main>

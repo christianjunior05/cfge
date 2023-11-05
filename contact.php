@@ -2,7 +2,6 @@
 session_start();
 // Obtenez le nom du fichier actuel
 $current_page = basename($_SERVER['PHP_SELF']);
-
 include_once 'controller.php';
 ?>
 <!doctype html>
@@ -61,39 +60,31 @@ include_once 'controller.php';
                                 <div class="single-address">
                                     <i class="fa fa-phone"></i>
                                     <h4>Telephone 1</h4>
-                                    <p>(+229) 95 37 42 53</p>
+                                    <p> (+225) 07 09 43 43 15</p>
                                 </div>
                             </div>
                             <div class="col-sm-12 col-md-6  single-address-box">
                                 <div class="single-address">
                                     <i class="fa fa-phone"></i>
                                     <h4>Telephone 2</h4>
-                                    <p>(+229) 95 37 42 53</p>
+                                    <p>(+225) 05 56 18 54 34</p>
                                 </div>
                             </div>
                             <div class="col-sm-12 col-md-12 single-address-box">
                                 <div class="single-address">
                                     <i class="fa fa-envelope"></i>
                                     <h4>Email:</h4>
-                                    <p>infos@cifecbenin.net</p>
+                                    <p>infos@cfge.ci</p>
                                 </div>
                             </div>
                             <div class="col-sm-12 col-md-12 single-address-box">
                                 <div class="single-address">
                                     <i class="fa fa-map-marker"></i>
                                     <h4>Adresse:</h4>
-                                    <p>10 BP 0592 Carré/1061 </p>
+                                    <p>Carrefour Duncan après la CEI </p>
+                                    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Rue K112 villa 18</p>
                                 </div>
                             </div>
-                            <!-- <div class="col-sm-12 single-address-box">
-                                <ul class="list-unstyled">
-                                    <li><a href=""><i class="fa fa-facebook teacher-icon"></i></a></li>
-                                    <li><a href=""><i class="fa fa-twitter teacher-icon"></i></a></li>
-                                    <li><a href=""><i class="fa fa-google-plus teacher-icon"></i></a></li>
-                                    <li><a href=""><i class="fa fa-linkedin teacher-icon"></i></a></li>
-                                    <li><a href=""><i class="fa fa-instagram teacher-icon"></i></a></li>
-                                </ul>
-                            </div> -->
                         </div>
                     </div>
                 </div>
@@ -107,31 +98,31 @@ include_once 'controller.php';
                     <div class="input-contact-form">
                         <div id="contact">
                             <div id="message"></div>
-                            <form method="post" action="" name="contactform" id="contactform">
+                            <form method="post" action="contact-check.php" name="contactform" id="contactform">
                                 <div class="row">
                                     <div class="col-sm-6">
                                         <div class="form-group">
-                                            <input type="text" class="form-control" placeholder="Nom" name="nom" id="name">
+                                            <input type="text" class="form-control" placeholder="Nom" name="name" id="name" required>
                                         </div>
                                     </div>
                                     <div class="col-sm-6">
                                         <div class="form-group">
-                                            <input type="email" class="form-control" placeholder="Email" name="email" id="email">
+                                            <input type="email" class="form-control" placeholder="Email" name="email" id="email" required>
                                         </div>
                                     </div>
                                     <div class="col-sm-12">
                                         <div class="form-group">
-                                            <input type="text" class="form-control" placeholder="Sujet" name="sujet" id="subject">
+                                            <input type="text" class="form-control" placeholder="Sujet" name="subject" id="subject" required>
                                         </div>
                                     </div>
                                     <div class="col-sm-12">
                                         <div class="form-group">
-                                            <textarea class="form-control" rows="6" placeholder="Message" name="message" id="comments"></textarea>
+                                            <textarea type="text" class="form-control" rows="6" placeholder="Message" name="messages" id="comments" required></textarea>
                                         </div>
                                     </div>
                                     <div class="col-sm-12">
                                         <div class="full-width">
-                                            <input value="Envoyer" type="submit" name="contacter" id="submit">
+                                            <input value="Envoyer" type="submit" id="submit">
                                         </div>
                                     </div>
                                 </div>

@@ -201,7 +201,7 @@ include_once 'controller.php';
 						<figure>
 							<a href="">
 								<div class="figure-img">
-									<img src="images/P_accueil_PG_FR.jpg" class="img-responsive">
+									<img src="img/P_accueil_PG_FR.jpg" class="img-responsive">
 								</div>
 							</a>
 						</figure>
@@ -330,7 +330,7 @@ include_once 'controller.php';
 					<div class="events-single-box">
 						<div class="row">
 							<div class="col-sm-12">
-								<img src="images/P_accueil_Nvx bacheliers.jpg" alt="" class="img-responsive">
+								<img src="img/P_accueil_Nvx bacheliers.jpg" alt="" class="img-responsive">
 								<div class="event-info">
 									<h3>Nouveaux bacheliers</h3>
 									<p style="font-size:17px">Candidats intéressés par les métiers
@@ -341,7 +341,6 @@ include_once 'controller.php';
 									<a class="event-btn" href="admission-post-bac.php">En savoir plus<i class="fa fa-long-arrow-right events-btn-icon"></i></a>
 								</div>
 							</div>
-
 
 						</div>
 					</div>
