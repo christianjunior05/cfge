@@ -21,6 +21,11 @@ $nl = $conn->prepare("SELECT * FROM newsletter ORDER BY jour DESC");
 $nl->execute();
 $result4 = $nl->fetchAll(PDO::FETCH_ASSOC);
 
+// liste des messages
+$nl = $conn->prepare("SELECT * FROM newsletter ORDER BY jour DESC");
+$nl->execute();
+$result4 = $nl->fetchAll(PDO::FETCH_ASSOC);
+
 // detail preinscription
 $voir = filter_input(INPUT_GET, "voir", FILTER_SANITIZE_NUMBER_INT);
 $select_preinscription = $conn->prepare('SELECT * FROM preinscriptions WHERE id = ?');

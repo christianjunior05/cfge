@@ -3,7 +3,7 @@
   <div class="d-flex align-items-center justify-content-between">
     <a href="index.html" class="logo d-flex align-items-center">
       <img src="" alt="">
-      <span class="d-none d-lg-block">Cifec Benin</span>
+      <span class="d-none d-lg-block">CFGE CI</span>
     </a>
     <i class="bi bi-list toggle-sidebar-btn"></i>
     <?php echo ($page === 'dash.php') ? '<a href="#preinscription" class="mx-3">Preinscription</a>

@@ -935,6 +935,23 @@ header .tp-rightarrow {
 	padding: 100px 0;
 }
 
+.content-1{
+	background-color: #EADDCA;
+}
+
+.content-2{
+	background-color: #F8C8DC;
+}
+
+.content-3{
+	background-color: #89CFF0;
+}
+
+.content-4{
+	background-color: #AFE1AF;
+}
+
+
 .Courses-area .courses-r-margin-bottom {
 	margin-bottom: 30px;
 }
@@ -4786,6 +4803,12 @@ footer .footer-bottom .footer-bottom-inner .footer-menu li a:hover .skype {
 	margin: 40px 0;
 }
 
+.single-courses_v .single-courses-area .single-curses-contert .description-content .requirements .text h3{
+	margin-top: 100px;
+	margin-left: 30px;
+	margin-bottom: 10px;
+}
+
 .single-courses_v .single-courses-area .single-curses-contert .description-content .requirements {
 	padding-bottom: 20px;
 }
@@ -4796,7 +4819,7 @@ footer .footer-bottom .footer-bottom-inner .footer-menu li a:hover .skype {
 	font-size: 14px;
 	padding-left: 15px;
 	position: relative;
-	color: #666666;
+	color: #000;
 }
 
 
@@ -5718,6 +5741,7 @@ footer .footer-bottom .footer-bottom-inner .footer-menu li a:hover .skype {
 	font-size: 16px;
 	padding-left: 10px;
 }
+
 
 .single-courses_v .single-courses-area-01 .courses-wrapper .single-courses .courses-content-box .courses-content-bottom ul li:first-child {
 	color: #b2b2b2;
