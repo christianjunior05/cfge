@@ -8,6 +8,7 @@
 							finance.</p> -->
                     <ul class="list-unstyled">
                         <li><span><i class="fa fa-phone footer-icon"></i></span>(+225) 07 09 43 43 15 <br></li>
+                        <li><span><i class="fa fa-phone footer-icon"></i></span>(+225) 05 94 77 50 59 <br></li>
                         <li><span><i class="fa fa-phone footer-icon"></i></span>(+225) 05 56 18 54 34 <br></li>
                         <li><span><i class="fa fa-envelope footer-icon"></i></span>infos@cfge.ci</li>
                         <li><span><i class="fa fa-envelope footer-icon"></i></span>ABIDJAN COCODY 2 PLATEAUX SIDECI</li>
@@ -44,9 +45,9 @@
                     <br>
                     <h3>Centres associés</h3>
                     <ul class="list-unstyled">
-                        <li><a href="#"><span><i class="fa fa-long-arrow-right footer-icon"></i></span>ESCAE Niamey</a></li>
-                        <li><a href="#"><span><i class="fa fa-long-arrow-right footer-icon"></i></span>CIFEC Benin</a></li>
-                        <li><a href="#"><span><i class="fa fa-long-arrow-right footer-icon"></i></span>2IFEC Burkina Faso</a></li>
+                        <li><a href="https://www.escaeniamey.com/" target="_blank"><span><i class="fa fa-long-arrow-right footer-icon"></i></span>ESCAE Niamey</a></li>
+                        <li><a href="https://cifecbenin.net/" target="_blank"><span><i class="fa fa-long-arrow-right footer-icon" ></i></span>CIFEC Benin</a></li>
+                        <li><a href="https://www.facebook.com/profile.php?id=100057106615390&mibextid=ZbWKwL" target="_blank"><span><i class="fa fa-long-arrow-right footer-icon"></i></span>2IFEC Burkina Faso</a></li>
                     </ul>
                     <br>
                 </div>

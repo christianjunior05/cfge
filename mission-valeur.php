@@ -86,7 +86,7 @@ include_once 'controller.php';
                                 Le Centre International de Formation à l'Expertise Comptable est la Grande Ecole de
                                 Gestion et de Management du BENIN, soutenue par un réseau soudé et solidaire de
                                 cabinets d'expertise comptable, d'entreprises et d'expert comptables diplômés. <br><br>
-                                <cite><img src="img/di.JPG" alt="" class="img-circle"><span> Guillaume AKESSE,</span><span> Directeur</span></cite>
+                                <cite><img src="img/PDG.JPG" alt=""> <br><span> Victor AKESSE,</span><span>Fondateur & PDG du groupe ESCAE</span></cite>
                             </p>
 
                             <h2 data-aos="zoom-in" data-aos-delay="400">Valeurs morales intrinsèques</h2>

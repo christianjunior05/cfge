@@ -52,13 +52,12 @@ include_once 'controller.php';
 						<img src="img/P_accueil_CAMES.webp" alt="Sky" class="rev-slidebg">
 						<!-- BEGIN BASIC TEXT LAYER -->
 						<!-- LAYER NR. 1 -->
-						<div class="tp-caption sfr font-extra-bold tp-resizeme letter-space-4 header-1 title-line-1" data-x="left" data-hoffset="0" data-y="center" data-voffset="-140" data-frames='[{"delay":0,"speed":3000,"frame":"0","from":"x:[175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:1;","mask":"x:[-100%];y:0;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]' style="z-index: 6; font-size:60px; color:#fff; font-family: 'Montserrat', sans-serif; serif; white-space: nowrap;font-weight:700;">Bienvenu au
+						<div class="tp-caption sfr font-extra-bold tp-resizeme letter-space-4 header-1 title-line-1" data-x="left" data-hoffset="0" data-y="center" data-voffset="-140" data-frames='[{"delay":0,"speed":3000,"frame":"0","from":"x:[175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:1;","mask":"x:[-100%];y:0;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]' style="z-index: 6; font-size:60px; color:#fff; font-family: 'Montserrat', sans-serif; serif; white-space: nowrap;font-weight:700;">Bienvenu au CFGE
 
 						</div>
 
 						<!-- LAYER NR. 2 -->
-						<div class="tp-caption sfr font-extra-bold tp-resizeme letter-space-4 header-1 title-line-2" data-x="left" data-hoffset="0" data-y="center" data-voffset="-80" data-frames='[{"delay":1000,"speed":3000,"frame":"0","from":"x:[175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:1;","mask":"x:[-100%];y:0;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]' style="z-index: 6; font-size:60px; color:#fff; font-family: 'Montserrat', sans-serif; serif; white-space: nowrap;font-weight:700;">CFGE
-						</div>
+						
 
 						<!-- LAYER NR. 3 -->
 						<div class="tp-caption sfr font-extra-bold tp-resizeme letter-space-4 header-p" data-x="left" data-hoffset="0" data-y="center" data-voffset="-10" data-frames='[{"delay":1000,"speed":3000,"frame":"0","from":"x:[175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:1;","mask":"x:[-100%];y:0;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]' style="z-index: 6; line-height:25px; font-size:15px; color:#fff; font-family: 'Open Sans', sans-serif; serif; white-space: nowrap;">La nouvelle solution de l’Expertise Comptable, qui vous donne la possibilité de <br> devenir <strong>EXPERT-COMPTABLE STAGIAIRE</strong> en 5 ans après le BAC.
@@ -73,6 +72,27 @@ include_once 'controller.php';
 						<div class="slider-overlay"></div>
 						<!-- SLIDE'S MAIN BACKGROUND IMAGE -->
 						<img src="img/CIFEC-17.jpg" alt="Sky" class="rev-slidebg">
+						<!-- BEGIN BASIC TEXT LAYER -->
+						<!-- LAYER NR.1 -->
+						<div class="tp-caption sfr font-extra-bold tp-resizeme letter-space-4 header-1 title-line-1" data-x="left" data-hoffset="0" data-y="center" data-voffset="-140" data-frames='[{"delay":0,"speed":3000,"frame":"0","from":"x:[175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:1;","mask":"x:[-100%];y:0;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]' style="z-index: 6; font-size:60px; color:#fff; font-family: 'Montserrat', sans-serif; serif; white-space: nowrap;font-weight:700;">Intégrez le CFGE
+						</div>
+
+						<!-- LAYER NR. 2 -->
+						<div class="tp-caption sfr font-extra-bold tp-resizeme letter-space-4  header-1 title-line-2" data-x="left" data-hoffset="0" data-y="center" data-voffset="-80" data-frames='[{"delay":1000,"speed":3000,"frame":"0","from":"x:[175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:1;","mask":"x:[-100%];y:0;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]' style="z-index: 6; font-size:60px; color:#fff; font-family: 'Montserrat', sans-serif; serif; white-space: nowrap;font-weight:700;">et devenez Expert-comptable
+						</div>
+
+						<!-- LAYER NR. 3 -->
+						<div class="tp-caption font-lora sfb tp-resizeme letter-space-5 header-p" data-x="left" data-hoffset="0" data-y="center" data-voffset="-10" data-frames='[{"delay":0,"speed":2000,"frame":"0","from":"y:top;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]' style="z-index: 6; line-height:25px; font-size:15px; color:#fff; font-family: 'Open Sans', sans-serif; serif; white-space: nowrap;">Préparez avec nous la LCCA et le MCCA de l’INTEC de Paris comme si vous y étiez <br> et entrez directement en stage d’expertise comptable.
+						</div>
+
+						<!-- LAYER NR. 4 -->
+						<div class="tp-caption lfb tp-resizeme header-btn" data-x="left" data-hoffset="0" data-y="center" data-voffset="90" data-frames='[{"delay":0,"speed":2000,"frame":"0","from":"y:bottom;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]' style="z-index: 8;"><a href="#programme" class="el-btn-regular slider-btn-left">Nos Programmes</a> <a href="contact.php" class="el-btn-regular">Nous contacter</a>
+						</div>
+					</li>
+					<li data-transition="random" data-title="Slide Title" data-param1="Additional Text" data-thumb="img/CIFEC-18.jpg">
+						<div class="slider-overlay"></div>
+						<!-- SLIDE'S MAIN BACKGROUND IMAGE -->
+						<img src="img/19.jpg" alt="Sky" class="rev-slidebg">
 						<!-- BEGIN BASIC TEXT LAYER -->
 						<!-- LAYER NR.1 -->
 						<div class="tp-caption sfr font-extra-bold tp-resizeme letter-space-4 header-1 title-line-1" data-x="left" data-hoffset="0" data-y="center" data-voffset="-140" data-frames='[{"delay":0,"speed":3000,"frame":"0","from":"x:[175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:1;","mask":"x:[-100%];y:0;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]' style="z-index: 6; font-size:60px; color:#fff; font-family: 'Montserrat', sans-serif; serif; white-space: nowrap;font-weight:700;">Intégrez le CFGE
@@ -120,6 +140,7 @@ include_once 'controller.php';
 						<h3>Formation d’excellence</h3>
 						<p>Optez pour notre formation d'excellence et développez vos compétences de manière
 						   approfondie dans les domaines de la comptabilité, la finance et l’audit.</p>
+						   <br>
 					</div>
 				</div>
 			</div>
@@ -145,6 +166,8 @@ include_once 'controller.php';
 					<div class="wel-text ">
 						<h3>Triple reconnaissance</h3>
 						<p>Nos diplômes sont reconnus par l’Enseignement Supérieur Français, par le CAMES et l’Etat de Côte d'Ivoire. </p>
+						<br>
+						<br>
 					</div>
 				</div>				
 			</div>
@@ -233,7 +256,7 @@ include_once 'controller.php';
 						<figure>
 							<a href="">
 								<div class="figure-img">
-									<img src="img/y.jpg" alt="" class="img-responsive">
+									<img src="img/z.jpg" alt="" class="img-responsive">
 								</div>
 							</a>
 						</figure>
@@ -567,6 +590,7 @@ include_once 'controller.php';
 		<div class="container">
 			<div class="row">
 				<div class="col-sm-12 section-header-box">
+					
 					<div class="section-header" data-aos="zoom-in" data-aos-delay="400">
 						<h2>Actualités</h2>
 					</div>
@@ -577,20 +601,19 @@ include_once 'controller.php';
 				<div class="col-sm-4 news-single">
 					<div class="news-single-box" data-aos="zoom-in" data-aos-delay="600">
 						<div class="news-img-box">
-							<img src="img/b496d364-5530-4265-bcd8-b11ce11870cd.JPG" alt="" class="img-responsive">
+							<img src="img/21.jfif" alt="" class="img-responsive" >
 						</div>
 						<div class="news-content">
-							<h3><a href="#">La nuit des Experts</a></h3>
+							<h3><a href="#">Journée mondiale de la femme</a></h3>
 							<p class="news-time">
 								<span>
 									<i class="fa fa-calendar event-icon"></i>
-									12 July, 2019
+									8 Mars 2023
 								</span>
 								<span>
 									<i class="fa fa-user"></i>
 									CFGE
 								</span>
-
 							</p>
 						</div>
 					</div>
@@ -612,7 +635,6 @@ include_once 'controller.php';
 									<i class="fa fa-user"></i>
 									CFGE
 								</span>
-
 							</p>
 						</div>
 					</div>
@@ -621,7 +643,7 @@ include_once 'controller.php';
 				<div class="col-sm-4 news-single">
 					<div class="news-single-box" data-aos="zoom-in" data-aos-delay="1000">
 						<div class="news-img-box">
-							<img src="img/bd6b2799-2475-41b7-8280-c2b947673bfc.JPG" alt="" class="img-responsive">
+							<img src="img/work1.JPG" alt="" class="img-responsive">
 						</div>
 						<div class="news-content">
 							<h3><a href="#">La nuit de l'excellence</a></h3>

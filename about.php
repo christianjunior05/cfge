@@ -448,13 +448,12 @@ include_once 'controller.php';
                 </div>
             </div>
             <p style="font-size:17px">
-                Les principaux partenaires du CIFEC sont la prestigieuse Ecole Supérieure de Commerce et
+                Les principaux partenaires du CFGE sont la prestigieuse Ecole Supérieure de Commerce et
                 d’Administration des Entreprises (ESCAE) située à Niamey au NIGER dont le Fondateur, Directeur Général est M Victor
                 AKESSE, Expert-Comptable et l’Institut National des Techniques Economiques et Comptables
                 (INTEC) de Paris. <br>
                  Viennent par la suite L’Institut international de formation à
-                l’expertise comptable (2IFEC) du Burkina Faso, Le Centre de formation à la Gestion
-                des entreprises (CFGE) de Côte d’Ivoire ;
+                l’expertise comptable (2IFEC) du Burkina Faso, ;
             </p>
             <div class="row">
                 <div class="col-md-3" data-aos="zoom-in" data-aos-delay="600"><img src="img/partner-02.png" alt=""></div>
