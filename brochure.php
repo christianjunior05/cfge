@@ -93,10 +93,8 @@ include_once 'controller.php';
                             </select>
                         </div>
                         <div class="form-group register-btn">
-                            <input type="submit" name="login" value="Télécharger la brochure" class="btn btn-primary btn-lg">
+                            <input type="submit" value="Télécharger la brochure" class="btn btn-primary btn-lg">
                         </div>
-                        <!-- <a href="forgot_password.html"><strong>Forgot password?</strong></a>
-                        <p>Not a member? <a href="register.html"><strong>Join today</strong></a></p> -->
                     </form>
                 </div>
             </div>
