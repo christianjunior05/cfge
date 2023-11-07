@@ -61,7 +61,7 @@ include_once 'controller.php';
         <div class="container">
             <div class="row">
                 <div class="col-sm-6 col-sm-offset-3">
-                    <form action="" method="post" class="learnpro-register-form text-center">
+                    <form action="download.php" method="post" class="learnpro-register-form text-center">
                         <p class="lead">Telecharger la brochure</p>
                         <?php
                         if (isset($error_message)) {
@@ -69,28 +69,16 @@ include_once 'controller.php';
                         }
                         ?>
                         <div class="form-group">
-                            <input  class="required form-control" placeholder="Nom *" name="name" type="text">
+                            <input  class="required form-control" placeholder="Nom *" name="name" type="text" required>
                         </div>
                         <div class="form-group">
-                            <input class="required form-control" placeholder="Prénoms *" name="surname" type="text">
+                            <input class="required form-control" placeholder="Prénoms *" name="surname" type="text" required>
                         </div>
                         <div class="form-group">
-                        <input class="form-control" placeholder="Téléphone" name="tel" type="text">
+                        <input class="form-control" placeholder="Téléphone" name="tel" type="text" required>
                          </div>
                         <div class="form-group">
                             <input class="required form-control" placeholder="email " name="email" type="email">
-                        </div>
-                         <div class="form-group">
-                        <input class="required form-control" placeholder="Situation Géographique" name="situation_geographique" type="text">
-                        </div>
-                         <div class="form-group">
-                            <select class="required form-control" name="fonction" value="">
-                                <option value="" disabled selected>Fonction</option>
-                                <option value="eleve">Élève</option>
-                                <option value="etudiant">Étudiant</option>
-                                <option value="enseignant">Enseignant</option>
-                                <option value="autres">Autres</option>
-                            </select>
                         </div>
                         <div class="form-group register-btn">
                             <input type="submit" value="Télécharger la brochure" class="btn btn-primary btn-lg">
