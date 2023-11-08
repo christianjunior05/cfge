@@ -75,10 +75,10 @@ include_once 'controller.php';
                             <input class="required form-control" placeholder="Prénoms *" name="surname" type="text" required>
                         </div>
                         <div class="form-group">
-                        <input class="form-control" placeholder="Téléphone" name="tel" type="text" required>
+                        <input class="form-control" placeholder="Téléphone" name="tel" type="tel" required>
                          </div>
                         <div class="form-group">
-                            <input class="required form-control" placeholder="email " name="email" type="email">
+                            <input class="required form-control" placeholder="email " name="email" type="email" required>
                         </div>
                         <div class="form-group register-btn">
                             <input type="submit" value="Télécharger la brochure" class="btn btn-primary btn-lg">
