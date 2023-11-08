@@ -28,7 +28,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     if ($validationError === null) {
         // Connexion à la base de données avec PDO
         try {
-            //$pdo = new PDO('mysql:host=localhost;dbname=OBS', 'root', '');
             $pdo = new PDO('mysql:host=localhost;dbname=cfge_db', 'root', '');
             $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 
