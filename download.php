@@ -18,7 +18,9 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         'name' => $_POST["name"],
         'surname' => $_POST["surname"],
         'tel' => $_POST["tel"],
-        'email' => $_POST["email"]
+        'email' => $_POST["email"],
+        'situation_geographique '=> $_POST["situation_geographique"],
+        'fonction' => $_POST["fonction"]
     ];
 
 
@@ -32,10 +34,10 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 
             // Préparation de la requête d'insertion
-            $stmt = $pdo->prepare("INSERT INTO brochure (name, surname, tel, email) VALUES (?, ?, ?, ?)");
+            $stmt = $pdo->prepare("INSERT INTO brochure (name, surname, tel, email , situation_geographique, fonction) VALUES (?, ?, ?, ? ,? ,?)");
 
             // Exécution de la requête
-            $stmt->execute([$formData['name'], $formData['surname'], $formData['tel'], $formData['email']]);
+            $stmt->execute([$formData['name'], $formData['surname'], $formData['tel'], $formData['email'] , $formData['situation_geographique'] , $formData['fonction']]);
 
             // Spécifiez le chemin du fichier PDF que vous souhaitez télécharger.
             $nomFichier = 'includes/Brochure.pdf';

@@ -69,28 +69,38 @@ include_once 'controller.php';
                         }
                         ?>
                         <div class="form-group">
-                            <input  class="required form-control" placeholder="Nom *" name="name" type="text" required>
+                            <input  class="required form-control" placeholder="Nom *" name="name" type="text">
                         </div>
                         <div class="form-group">
-                            <input class="required form-control" placeholder="Prénoms *" name="surname" type="text" required>
+                            <input class="required form-control" placeholder="Prénoms *" name="surname" type="text">
                         </div>
                         <div class="form-group">
-                        <input class="form-control" placeholder="Téléphone" name="tel" type="tel" required>
+                        <input class="form-control" placeholder="Téléphone" name="tel" type="text">
                          </div>
                         <div class="form-group">
-                            <input class="required form-control" placeholder="email " name="email" type="email" required>
+                            <input class="required form-control" placeholder="email " name="email" type="email">
+                        </div>
+                         <div class="form-group">
+                        <input class="required form-control" placeholder="Situation Géographique" name="situation_geographique" type="text">
+                        </div>
+                         <div class="form-group">
+                            <select class="required form-control" name="fonction" value="">
+                                <option value="" disabled selected>Fonction</option>
+                                <option value="eleve">Élève</option>
+                                <option value="etudiant">Étudiant</option>
+                                <option value="enseignant">Enseignant</option>
+                                <option value="autres">Autres</option>
+                            </select>
                         </div>
                         <div class="form-group register-btn">
-                            <input type="submit" value="Télécharger la brochure" class="btn btn-primary btn-lg">
+                            <input type="submit" name="login" value="Télécharger la brochure" class="btn btn-primary btn-lg">
                         </div>
                     </form>
                 </div>
             </div>
         </div>
     </section>
-    <!-- ./ End Teachers Area section -->
 
-    <!-- Footer Area section -->
     <?php include_once 'includes/footer.php'; ?>
     <!-- ./ End Footer Area -->
     <!-- ============================
