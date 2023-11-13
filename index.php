@@ -310,7 +310,7 @@ include_once 'controller.php';
 					<div class="col-sm-3 counters-item" data-aos="zoom-in" data-aos-delay="800">
 						<div class="section counter-box">
 							<img src="images/index/counter-icon-01.png" alt="">
-							<div class="project-count counter">1850</div>
+							<div class="project-count counter">1100</div>
 							<span>Diplomés</span>
 						</div>
 					</div>
@@ -318,7 +318,7 @@ include_once 'controller.php';
 					<div class="col-sm-3 counters-item" data-aos="zoom-in" data-aos-delay="1000">
 						<div class="section counter-box">
 							<img src="images/index/counter-icon-01.png" alt="">
-							<div class="project-count counter">3500</div>
+							<div class="project-count counter">3000</div>
 							<span>Etudiants</span>
 						</div>
 					</div>
@@ -629,7 +629,7 @@ include_once 'controller.php';
 							<p class="news-time">
 								<span>
 									<i class="fa fa-calendar event-icon"></i>
-									12 July, 2019
+									12 Juillet, 2023
 								</span>
 								<span>
 									<i class="fa fa-user"></i>
@@ -650,7 +650,7 @@ include_once 'controller.php';
 							<p class="news-time">
 								<span>
 									<i class="fa fa-calendar event-icon"></i>
-									12 July, 2019
+									12 juillet 2023
 								</span>
 								<span>
 									<i class="fa fa-user"></i>
