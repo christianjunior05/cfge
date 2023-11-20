@@ -69,13 +69,13 @@ include_once 'controller.php';
                         }
                         ?>
                         <div class="form-group">
-                            <input  class="required form-control" placeholder="Nom *" name="name" type="text">
+                            <input  class="required form-control" placeholder="Nom *" name="name" type="text" required>
                         </div>
                         <div class="form-group">
-                            <input class="required form-control" placeholder="Prénoms *" name="surname" type="text">
+                            <input class="required form-control" placeholder="Prénoms *" name="surname" type="text" required>
                         </div>
                         <div class="form-group">
-                        <input class="form-control" placeholder="Téléphone" name="tel" type="text">
+                        <input class="form-control" placeholder="Téléphone *" name="tel" type="text" required>
                          </div>
                         <div class="form-group">
                             <input class="required form-control" placeholder="email " name="email" type="email">
