@@ -19,7 +19,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         'surname' => $_POST["surname"],
         'tel' => $_POST["tel"],
         'email' => $_POST["email"],
-        'situation_geographique '=> $_POST["situation_geographique"],
+        'situation_geographique'=> $_POST["situation_geographique"],
         'fonction' => $_POST["fonction"]
     ];
 
@@ -72,7 +72,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         echo $validationError;
     }
 } else {
-    header("Location: brochure.php");
+    header("Location: index.php");
 }
 
 ?>
