@@ -95,20 +95,19 @@ include_once 'controller.php';
 						<img src="img/19.jpg" alt="Sky" class="rev-slidebg">
 						<!-- BEGIN BASIC TEXT LAYER -->
 						<!-- LAYER NR.1 -->
-						<div class="tp-caption sfr font-extra-bold tp-resizeme letter-space-4 header-1 title-line-1" data-x="left" data-hoffset="0" data-y="center" data-voffset="-140" data-frames='[{"delay":0,"speed":3000,"frame":"0","from":"x:[175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:1;","mask":"x:[-100%];y:0;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]' style="z-index: 6; font-size:60px; color:#fff; font-family: 'Montserrat', sans-serif; serif; white-space: nowrap;font-weight:700;">Intégrez le CFGE
+						<div class="tp-caption sfr font-extra-bold tp-resizeme letter-space-4 header-1 title-line-1" data-x="left" data-hoffset="0" data-y="center" data-voffset="-140" data-frames='[{"delay":0,"speed":3000,"frame":"0","from":"x:[175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:1;","mask":"x:[-100%];y:0;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]' style="z-index: 6; font-size:60px; color:#fff; font-family: 'Montserrat', sans-serif; serif; white-space: nowrap;font-weight:700;">
 						</div>
 
 						<!-- LAYER NR. 2 -->
-						<div class="tp-caption sfr font-extra-bold tp-resizeme letter-space-4  header-1 title-line-2" data-x="left" data-hoffset="0" data-y="center" data-voffset="-80" data-frames='[{"delay":1000,"speed":3000,"frame":"0","from":"x:[175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:1;","mask":"x:[-100%];y:0;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]' style="z-index: 6; font-size:60px; color:#fff; font-family: 'Montserrat', sans-serif; serif; white-space: nowrap;font-weight:700;">et devenez Expert-comptable
+						<div class="tp-caption sfr font-extra-bold tp-resizeme letter-space-4  header-1 title-line-2" data-x="left" data-hoffset="0" data-y="center" data-voffset="-80" data-frames='[{"delay":1000,"speed":3000,"frame":"0","from":"x:[175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:1;","mask":"x:[-100%];y:0;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]' style="z-index: 6; font-size:60px; color:#fff; font-family: 'Montserrat', sans-serif; serif; white-space: nowrap;font-weight:700;">
 						</div>
 
 						<!-- LAYER NR. 3 -->
-						<div class="tp-caption font-lora sfb tp-resizeme letter-space-5 header-p" data-x="left" data-hoffset="0" data-y="center" data-voffset="-10" data-frames='[{"delay":0,"speed":2000,"frame":"0","from":"y:top;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]' style="z-index: 6; line-height:25px; font-size:15px; color:#fff; font-family: 'Open Sans', sans-serif; serif; white-space: nowrap;">Préparez avec nous la LCCA et le MCCA de l’INTEC de Paris comme si vous y étiez <br> et entrez directement en stage d’expertise comptable.
+						<div class="tp-caption font-lora sfb tp-resizeme letter-space-5 header-p" data-x="left" data-hoffset="0" data-y="center" data-voffset="-10" data-frames='[{"delay":0,"speed":2000,"frame":"0","from":"y:top;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]' style="z-index: 6; line-height:25px; font-size:15px; color:#fff; font-family: 'Open Sans', sans-serif; serif; white-space: nowrap;">
 						</div>
 
 						<!-- LAYER NR. 4 -->
-						<div class="tp-caption lfb tp-resizeme header-btn" data-x="left" data-hoffset="0" data-y="center" data-voffset="90" data-frames='[{"delay":0,"speed":2000,"frame":"0","from":"y:bottom;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]' style="z-index: 8;"><a href="#programme" class="el-btn-regular slider-btn-left">Nos Programmes</a> <a href="contact.php" class="el-btn-regular">Nous contacter</a>
-						</div>
+						<div class="tp-caption lfb tp-resizeme header-btn" data-x="left" data-hoffset="0" data-y="center" data-voffset="90" data-frames='[{"delay":0,"speed":2000,"frame":"0","from":"y:bottom;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]' style="z-index: 8;">
 					</li>
 				</ul><!-- END SLIDES LIST -->
 
@@ -310,7 +309,7 @@ include_once 'controller.php';
 					<div class="col-sm-3 counters-item" data-aos="zoom-in" data-aos-delay="800">
 						<div class="section counter-box">
 							<img src="images/index/counter-icon-01.png" alt="">
-							<div class="project-count counter">1850</div>
+							<div class="project-count counter">1100</div>
 							<span>Diplomés</span>
 						</div>
 					</div>
@@ -318,7 +317,7 @@ include_once 'controller.php';
 					<div class="col-sm-3 counters-item" data-aos="zoom-in" data-aos-delay="1000">
 						<div class="section counter-box">
 							<img src="images/index/counter-icon-01.png" alt="">
-							<div class="project-count counter">3500</div>
+							<div class="project-count counter">3000</div>
 							<span>Etudiants</span>
 						</div>
 					</div>
@@ -629,7 +628,7 @@ include_once 'controller.php';
 							<p class="news-time">
 								<span>
 									<i class="fa fa-calendar event-icon"></i>
-									12 July, 2019
+									12 Juillet, 2023
 								</span>
 								<span>
 									<i class="fa fa-user"></i>
@@ -650,7 +649,7 @@ include_once 'controller.php';
 							<p class="news-time">
 								<span>
 									<i class="fa fa-calendar event-icon"></i>
-									12 July, 2019
+									12 juillet 2023
 								</span>
 								<span>
 									<i class="fa fa-user"></i>

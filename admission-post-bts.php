@@ -57,7 +57,7 @@ include_once 'controller.php';
                     <div class="row">
                         <div class="col-sm-12">
                             <div class="post-img-box" data-aos="zoom-in" data-aos-delay="400">
-                                <img src="img/c3.jpg" alt="" class="img-responsive">
+                                <img src="img/3.jpg" alt="" class="img-responsive">
                             </div>
                         </div>
                         <div class="col-sm-12">
@@ -85,17 +85,6 @@ include_once 'controller.php';
                                                     <strong>- Les programmes du CIFEC en DCG/LICENCE — DSCG/MASTER,
                                                         s'adressent également aux personnes en situation de : reconversion
                                                         professionnelle - Evolution / Changement de carrière - Création d'entreprise.</strong>
-                                                <!-- <ul class="text-sm-start" data-aos="zoom-in" data-aos-delay="400">
-                                                    <li> Les candidats disposant d'un diplôme de niveau BAC +2 ou équivalent (BTS -
-                                                        DUT) pour une formation en LICENCE.</li>
-                                                    <li> Les candidats disposant d'un diplôme de niveau BAC +3 ou équivalent
-                                                        (LICENCE - MAITRISE - MASTER VALIDE - DESS) pour une formation en
-                                                        MASTER.</li>
-                                                    <li> Les programmes du CIFEC en DCG/LICENCE — DSCG/MASTER,
-                                                        s'adressent également aux personnes en situation de : reconversion
-                                                        professionnelle - Evolution / Changement de carrière - Création d'entreprise.</li>
-
-                                                </ul> -->
                                                 </p>
 
                                                 <h4 data-aos="zoom-in" data-aos-delay="400">Procédures d'inscription</h4>
@@ -115,34 +104,31 @@ include_once 'controller.php';
 
                                                 <div class="col-sm-12 mgb-3">
                                                     <div class="row">
-                                                        <div class="col-sm-4 box box-1" data-aos="zoom-in" data-aos-delay="400">
-
+                                                        <div class="col-sm-4 box box-1" style="background-color: #b5d56a;" data-aos="zoom-in" data-aos-delay="400">
                                                             <h4 class="text-center">Vous postulez</h4>
                                                             <p style="font-size:17px" class="text-center">
-                                                                Parlez un peu de vous et nous vous aiderons pour le reste.
-                                                                Notre outil de demande en ligne pratique ne prend que 3 min à remplir.
+                                                                Parlez un peu de vous et nous vous aiderons pour le reste. <br>
+                                                                Notre outil de demande en ligne pratique ne prend que 3 min à remplir.   
                                                             </p>
                                                         </div>
-                                                        <div class="col-sm-4 box box-2" data-aos="zoom-in" data-aos-delay="600">
 
+                                                        <div class="col-sm-4 box box-2" style="background-color:  #4886ff;" data-aos="zoom-in" data-aos-delay="600">
                                                             <h4 class="text-center">On vous contacte</h4>
                                                             <p class="text-center" style="font-size:17px">
-                                                                Après avoir soumis votre candidature, un reponsable des admissions vous contactera
+                                                                Après avoir soumis votre candidature, un responsable des admissions vous contactera
                                                                 et vous aidera à terminer le processus.
                                                             </p>
                                                         </div>
-                                                        <div class="col-sm-4 box box-3" data-aos="zoom-in" data-aos-delay="800">
 
+                                                        <div class="col-sm-4 box box-3" style="background-color: #ff6f6f;" data-aos="zoom-in" data-aos-delay="800">
                                                             <h4 class="text-center">Vous êtes prêt</h4>
                                                             <p class="text-center" style="font-size:17px">
-                                                                Une fois votre inscription effectuée au sein de nos locaux, <br> vous êtes prêt à
+                                                                Une fois votre inscription effectuée au sein de nos locaux, <br><br> vous êtes prêt à
                                                                 débuter votre carrière.
                                                             </p>
                                                         </div>
                                                     </div>
                                                 </div>
-
-
                                                 <h4 data-aos="zoom-in" data-aos-delay="400">Mon Cursus au CIFEC</h4>
                                                 <p>
                                                 <h5 style="font-size:17px" data-aos="zoom-in" data-aos-delay="400">1 - Je suis titulaire d'un BAC +2</h5>

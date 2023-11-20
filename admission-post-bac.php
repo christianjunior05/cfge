@@ -55,7 +55,7 @@ include_once 'controller.php';
                     <div class="row">
                         <div class="col-sm-12">
                             <div class="post-img-box" data-aos="zoom-in" data-aos-delay="400">
-                                <img src="https://img.freepik.com/free-photo/close-up-students-studying-together_23-2148913243.jpg?t=st=1690980171~exp=1690980771~hmac=1d76c17a522c464cc75eb387c0bffe038c59ab27c175c40248cc509fe58f709d" alt="" class="img-responsive">
+                                <img src="img/2.jpg">
                             </div>
                         </div>
                         <div class="col-sm-12">
@@ -82,12 +82,12 @@ include_once 'controller.php';
                                                 <h4 data-aos="zoom-in" data-aos-delay="400">Procédures d'inscription</h4>
                                                 <p style="font-size:17px" data-aos="zoom-in" data-aos-delay="400">
                                                     Pour postuler au CIFEC, le candidat doit remplir <a href="preinscription.php">le formulaire de préinscription</a>. Une
-                                                    fois sa candidature acceptée, il finalise son inscription dans nos locaux (Vodjè, juste
-                                                    après le carrefour SONAR à 100m de l’hôtel de l’Etoile) tout en joignant les pièces ci-dessous : <br><br>
-                                                    <strong>- Photocopie légalisée de la collante du BAC;</strong> <br>
-                                                    <strong>- Photocopie de la carte d'identité ;</strong> <br>
-                                                    <strong>- Photocopie de l'extrait de Naissance ;</strong> <br>
-                                                    <strong>- 02 photos</strong>
+                                                    fois sa candidature acceptée, il finalise son inscription dans nos locaux (COCODY, II PLATEAUX SIDECI Carrefour DUNCAN après la CEI) tout en joignant les pièces ci-dessous : <br><br>
+                                                    <strong>- 01 Extrait d'acte de naissance;</strong> <br>
+                                                    <strong>- 01 Copie certifiée du dernier diplôme et du BAC</strong> <br>
+                                                    <strong>- 01 Photocopie légalisée des derniers bulletins </strong> <br>
+                                                    <strong>- 02 copies de la pièce d'identité;</strong> <br>
+                                                    <strong>- 02 photos d'identités</strong>
                                                 
                                                 </p>
 
