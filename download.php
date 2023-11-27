@@ -3,13 +3,14 @@
 function validateForm($data) {
     foreach ($data as $field) {
         if (empty($field)) {
-            return "Veuillez remplir tous les champs du formulaire.";
+            return "Veuillez remplir le champ '{$field}'.";
         }
     }
 
     if (!filter_var($data['email'], FILTER_VALIDATE_EMAIL)) {
         return "Adresse e-mail invalide.";
     }
+
 
     return null; // Aucune erreur de validation
 }
@@ -62,7 +63,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                 echo 'Le fichier demandé n\'existe pas.';
             }
 
-            
             echo "Vos informations ont été envoyées avec succès";
             
         } catch (PDOException $e) {
