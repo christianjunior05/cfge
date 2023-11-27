@@ -28,7 +28,7 @@ include_once 'controller.php';
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>
                         </button>
-                        <a href="#" class="navbar-brand  data-scroll"><img src="" alt=""><span>CIFEC LOGO</span></a>
+                        <?php include_once 'includes/logo.php'; ?>
                     </div>
 
                     <div class="collapse navbar-collapse edu-nav main-menu" id="bs-example-navbar-collapse-1">

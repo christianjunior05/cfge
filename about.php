@@ -295,7 +295,7 @@ include_once 'controller.php';
                         <div class="description-content">
                             <h2 data-aos="zoom-in" data-aos-delay="400">Nos programmes</h2>
                             <p></p>
-                            <div class="requirements" style="font-size:17px">
+                            <div class="requirements" style="font-size:17px ">
                                 <!-- <h3>Première passerelle</h3> -->
                                 <span data-aos="zoom-in" data-aos-delay="400"> Le CFGE propose une gamme complète et unique de programmes à destination
                                     d'étudiants et de dirigeants à haut potentiel.</span> <br><br>
@@ -303,15 +303,15 @@ include_once 'controller.php';
                                 <div class="courses">
                                     <div class="courses-03">
                                         <div class="col-sm-4 single-courses-box" data-aos="zoom-in" data-aos-delay="600">
-                                            <div class="single-courses">
+                                            <div class="single-courses" style="background-color: #b5d56a; color:white">
                                                 <div class="courses-content">
-                                                    <h3>CAMES</h3>
+                                                    <h3 style="color: white;">CAMES</h3>
                                                     <ul class="list-unstyled">
                                                         <a href="lstcf.php">
-                                                            <li style="font-size:17px">LSTCF</li>
+                                                            <li style="font-size:17px ; color: white;">LSTCF</li>
                                                         </a> <br>
                                                         <a href="mcca-escae.php">
-                                                            <li style="font-size:17px">MCCA de I’ESCAE Niamey</li>
+                                                            <li style="font-size:17px ; color: white;">MCCA de I’ESCAE Niamey</li>
                                                         </a> <br><br><br><br><br>
                                                     </ul>
                                                 </div>
@@ -319,25 +319,25 @@ include_once 'controller.php';
                                         </div>
 
                                         <div class="col-sm-4 single-courses-box" data-aos="zoom-in" data-aos-delay="800">
-                                            <div class="single-courses">
+                                            <div class="single-courses" style="background-color:#4886ff ; color: white;">
                                                 <div class="courses-content">
-                                                    <h3>Programme Français</h3>
+                                                    <h3  style="color: white;">Programme Français</h3>
                                                     <ul class="list-unstyled">
                                                         <a href="dcg.php">
-                                                            <li style="font-size:17px">DCG / DGC</li>
+                                                            <li style="font-size:17px; color: white;">DCG / DGC</li>
                                                         </a>
                                                         <br>
 
                                                         <a href="lcca.php">
-                                                            <li style="font-size:17px">LCCA INTEC Paris</li>
+                                                            <li style="font-size:17px ; color: white;">LCCA INTEC Paris</li>
                                                         </a>
                                                         <br>
                                                         <a href="mcca-intec.php">
-                                                            <li style="font-size:17px">MCCA INTEC Paris</li>
+                                                            <li style="font-size:17px ;color: white;">MCCA INTEC Paris</li>
                                                         </a>
                                                         <br>
                                                         <a href="dscg.php">
-                                                            <li style="font-size:17px">DSCG / DSGC</li>
+                                                            <li style="font-size:17px ;color: white;">DSCG / DSGC</li>
                                                         </a>
                                                         <br>
                                                     </ul>
@@ -346,24 +346,24 @@ include_once 'controller.php';
                                         </div>
 
                                         <div class="col-sm-4 single-courses-box" data-aos="zoom-in" data-aos-delay="1000">
-                                            <div class="single-courses">
+                                            <div class="single-courses"  style="background-color: #ff6f6f; color:white;">
                                                 <div class="courses-content">
-                                                    <h3>Certificats de Spécialisation</h3>
+                                                    <h3 style="color: white;">Certificats de Spécialisation</h3>
                                                     <ul class="list-unstyled">
                                                         <a href="audit.php">
-                                                            <li style="font-size:17px"> Audit et Contrôle Légal des Comptes</li>
+                                                            <li style="font-size:17px ; color: white;"> Audit et Contrôle Légal des Comptes</li>
                                                         </a>
                                                         <br>
                                                         <a href="gestion.php">
-                                                            <li style="font-size:17px"> Gestion des Associations</li>
+                                                            <li style="font-size:17px ; color: white;"> Gestion des Associations</li>
                                                         </a>
                                                         <br>
                                                         <a href="comptabilite.php">
-                                                            <li style="font-size:17px">Comptabilité Internationale</li>
+                                                            <li style="font-size:17px ; color: white;">Comptabilité Internationale</li>
                                                         </a>
                                                         <br>
                                                         <a href="auditsy.php">
-                                                            <li style="font-size:17px">Audit des SI</li>
+                                                            <li style="font-size:17px ;color: white;">Audit des SI</li>
                                                         </a>
                                                     </ul>
                                                 </div>

@@ -72,9 +72,17 @@ include_once 'controller.php';
                             </div>
                             <div class="col-sm-12 col-md-12 single-address-box">
                                 <div class="single-address">
+                                    <i class="fa fa-phone"></i>
+                                    <h4>Telephone 3</h4>
+                                    <p> (+225) 05 94 77 50 59 </p>
+                                </div>
+                            </div>
+                            <div class="col-sm-12 col-md-12 single-address-box">
+                                <div class="single-address">
                                     <i class="fa fa-envelope"></i>
                                     <h4>Email:</h4>
                                     <p>infos@cfge.ci</p>
+                                    <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cfgeci01@gmail.com</p>
                                 </div>
                             </div>
                             <div class="col-sm-12 col-md-12 single-address-box">
