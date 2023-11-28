@@ -678,16 +678,16 @@ include_once 'controller.php';
 				<div class="col-sm-3 col-sm-offset-4">								
 					<div class="carousel-images slider-nav">
 						<div>
-							<img src="images/index/stu-parent-01.jpg" alt="1" class="img-responsive img-circle">
+							<img src="img/c1.jpg" alt="1" class="img-responsive img-circle">
 						</div>
 						<div>
-							<img src="images/index/stu-parent-02.jpg" alt="2" class="img-responsive img-circle">
+							<img src="img/c2.jpg" alt="2" class="img-responsive img-circle">
 						</div>
 						<div>
-							<img src="images/index/stu-parent-03.jpg" alt="3" class="img-responsive img-circle">
+							<img src="img/bts.jpg" alt="3" class="img-responsive img-circle">
 						</div>
 						<div>
-							<img src="images/index/stu-parent-04.jpg" alt="3" class="img-responsive img-circle">
+							<img src="img/prof.jpg" alt="3" class="img-responsive img-circle">
 						</div>
 					</div>
 				</div>
