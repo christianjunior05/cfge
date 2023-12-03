@@ -72,15 +72,15 @@ include_once 'controller.php';
                                 <!-- <h3></h3> -->
                                 Son implementation en Côte d'Ivoire vise (4) objectifs essentiels :
                                 <ol class="list-unstyled">
-                                    <li style="font-weight : bold; font-size:17px">1.	Permettre aux nouveaux bacheliers d’obtenir en un temps record le titre d’expert-comptable mémorialiste selon Ie système français avec les meilleures conditions de succès (5 ans maximum après le BAC) ;
+                                    <li style="font-weight : bold; font-size:17px">	Permettre aux nouveaux bacheliers d’obtenir en un temps record le titre d’expert-comptable mémorialiste selon Ie système français avec les meilleures conditions de succès (5 ans maximum après le BAC) ;
                                     </li> <br>
 
-                                    <li style="font-weight : bold;font-size:17px">2.	Offrir les meilleures conditions de succès aux étudiants déjà engagés dans les études d’expertise comptable selon le système Français ; ;
+                                    <li style="font-weight : bold;font-size:17px">	Offrir les meilleures conditions de succès aux étudiants déjà engagés dans les études d’expertise comptable selon le système Français ; ;
                                     </li> <br>
 
-                                    <li style="font-weight : bold;font-size:17px">3.	Permettre aux auditeurs et étudiants ayant renoncé à leurs études d’expertise comptable d’y revenir et de les reprendre avec les meilleures conditions de succès ;;
+                                    <li style="font-weight : bold;font-size:17px">	Permettre aux auditeurs et étudiants ayant renoncé à leurs études d’expertise comptable d’y revenir et de les reprendre avec les meilleures conditions de succès ;;
                                     </li> <br>
-                                    <li style="font-weight : bold;font-size:17px">4.	Permettre aux diplômés des universités et autres grandes écoles d’accéder à la formation d’expertise comptable bien sans reprendre l’intégralité des unités d’enseignement.
+                                    <li style="font-weight : bold;font-size:17px">	Permettre aux diplômés des universités et autres grandes écoles d’accéder à la formation d’expertise comptable bien sans reprendre l’intégralité des unités d’enseignement.
                                     </li>
 
                                 </ol>
