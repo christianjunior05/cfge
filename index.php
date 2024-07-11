@@ -173,7 +173,7 @@ include_once 'controller.php';
 		</div>
 	</div>
 </section>		
-
+<hr>
 	<!-- programmes -->
 
 	<section class="Courses-area-02">
@@ -663,7 +663,101 @@ include_once 'controller.php';
 			</div>
 		</div>
 	</section>
+	<section class="students-say-area">
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-12 section-header-box">
+				<div class="section-header">
+					<h2>Ils nous ont fait confiance</h2>
+				</div><!-- ends: .section-header -->
+			</div>
+		</div>
 
+		<div class="row">
+			<div class="img-full-box">
+				<div class="col-sm-3 col-sm-offset-4">								
+					<div class="carousel-images slider-nav">
+						<div>
+							<img src="img/c1.jpg" alt="1" class="img-responsive img-circle">
+						</div>
+						<div>
+							<img src="img/c2.jpg" alt="2" class="img-responsive img-circle">
+						</div>
+						<div>
+							<img src="img/bts.jpg" alt="3" class="img-responsive img-circle">
+						</div>
+						<div>
+							<img src="img/prof.jpg" alt="3" class="img-responsive img-circle">
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-sm-8 col-sm-offset-2">
+				<div class="carousel-text slider-for">
+					<div class="single-box">
+						<p>Je suis très satisfait de l'enseignement offert par l'école. J'ai acquis 
+								une solide compréhension des principes comptables et financiers, ce qui m'a permis de réussir mes 
+								études et de me préparer efficacement à ma future carrière</p>
+						<ul class="list-unstyled rank-icons">
+							<li><i class="fa fa-star"></i></li>
+							<li><i class="fa fa-star"></i></li>
+							<li><i class="fa fa-star"></i></li>
+							<li><i class="fa fa-star"></i></li>
+							<li><i class="fa fa-star"></i></li>									
+						</ul>
+						<h3>David Ake</h3>
+						<span>Alexis, Parents</span>
+					</div>
+
+					<div class="single-box">
+						<p>L'école met l'accent sur l'apprentissage pratique, ce qui est extrêmement 
+								précieux. Les stages et les projets réels que j'ai pu réaliser ont 
+								renforcé ma confiance en mes compétences en comptabilité.</p>
+						<ul class="list-unstyled rank-icons">
+							<li><i class="fa fa-star"></i></li>
+							<li><i class="fa fa-star"></i></li>
+							<li><i class="fa fa-star"></i></li>
+							<li><i class="fa fa-star"></i></li>
+							<li><i class="fa fa-star"></i></li>									
+						</ul>
+						<h3>Guy-Charles </h3>
+						<span>Martin, Parent</span>
+					</div>
+
+					<div class="single-box">
+						<p>J'apprécie l'attention personnalisée que l'école de comptabilité CIFEC BENIN accorde à chaque élève. 
+								Les professeurs sont toujours disponibles pour répondre aux questions et fournir un soutien 
+								supplémentaire si nécessaire.</p>
+						<ul class="list-unstyled rank-icons">
+							<li><i class="fa fa-star"></i></li>
+							<li><i class="fa fa-star"></i></li>
+							<li><i class="fa fa-star"></i></li>
+							<li><i class="fa fa-star"></i></li>
+							<li><i class="fa fa-star"></i></li>									
+						</ul>
+						<h3>Kouamé ange</h3>
+						<span>Alexis, Parents</span>
+					</div>
+
+					<div class="single-box">
+						<p>La préparation à l'examen de certification comptable est exceptionnelle. Grâce aux ressources et aux 
+								programmes de l'école, Je me suis senti confiant et prêt à réussir mes examens professionnels..</p>
+						<ul class="list-unstyled rank-icons">
+							<li><i class="fa fa-star"></i></li>
+							<li><i class="fa fa-star"></i></li>
+							<li><i class="fa fa-star"></i></li>
+							<li><i class="fa fa-star"></i></li>
+							<li><i class="fa fa-star"></i></li>									
+						</ul>
+						<h3>Jessica Alaba</h3>
+						<span>Martin, Parent</span>
+					</div>
+				</div>
+			</div><!-- /.block-text -->
+		</div>	<!--./End row-->
+	</div>
+</section>
 	<!-- partenaires -->
 	<div>
 		<div class="container">

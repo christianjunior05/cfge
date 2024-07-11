@@ -3,7 +3,8 @@
         <div class="row">
             <div class=" col-sm-12 footer-content-box">
                 <div class="col-sm-3">
-                    <img src="images/4.png" width="150" alt="logo-cifec">
+                    <a href="index.php"><img src="images/4.png" width="150" alt="logo-cifec"></a>
+                  
                     <!-- <p>école spécialisée dans les métiers de la comptabilité, le contrôle de gestion, l’audit et la
 							finance.</p> -->
                     <ul class="list-unstyled">
@@ -22,6 +23,8 @@
                         <li><a href="about.php"><span><i class="fa fa-long-arrow-right footer-icon"></i></span>A Propos</a></li>
                         <li><a href="mission-valeur.php"><span><i class="fa fa-long-arrow-right footer-icon"></i></span>Missions et Valeurs</a></li>
                         <li><a href="team.php"><span><i class="fa fa-long-arrow-right footer-icon"></i></span>Une équipe à votre service</a></li>
+                        <li><a href="event.php"><span><i class="fa fa-long-arrow-right footer-icon"></i></span> Évenements</a></li>
+                        <li><a href="gallery.php"><span><i class="fa fa-long-arrow-right footer-icon"></i></span>Gallerie </a></li>
                     </ul>
                     <br>
                     <h3>Programmes</h3>

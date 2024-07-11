@@ -58,7 +58,7 @@ include_once 'controller.php';
 
                             <div class="img-box" data-aos="zoom-in" data-aos-delay="400">
 
-                                <a href="#"><img src="img/c1.jpg" alt="" class="img-responsive"></a>
+                                <a href="#"><img src="img/21.jpg" alt="" class="img-responsive"></a>
                                 <span><a href="#" class="overlay"></a></span>
                             </div>
                             <div class="single-text-box">
@@ -76,7 +76,7 @@ include_once 'controller.php';
                             <h3 data-aos="zoom-in" data-aos-delay="400">Des Professeurs experts dans leur domaine !</h3>
 
                             <div class="img-box" data-aos="zoom-in" data-aos-delay="500">
-                                <img src="img/prof.jpg" alt="" class="img-responsive">
+                                <img src="img/20.jpg" alt="" class="img-responsive">
                                 <span><a href="#" class="overlay"></a></span>
                             </div>
                             <div class="single-text-box">

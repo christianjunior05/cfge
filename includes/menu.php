@@ -40,7 +40,6 @@
         <li><a href="admission-post-bts.php">POST-BAC +2/3</a></li>
         <li><a href="faq.php">Lignes essentielles</a></li>
         <li><a href="preinscription.php">Préinscription en ligne</a></li>
-        <li><a href="faq.php">Lignes essentielles</a></li>
     </ul>
             <!-- dropdown end -->
 </li>

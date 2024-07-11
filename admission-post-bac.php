@@ -68,7 +68,7 @@ include_once 'controller.php';
                                         <div class="col-sm-12">
                                             <div class="description-text-right">
                                                 <p style="font-size:17px" data-aos="zoom-in" data-aos-delay="400">
-                                                    L'Admission Post BAC au CIFEC s'adresse aux candidats intéressés par les métiers
+                                                    L'Admission Post BAC au CFGE s'adresse aux candidats intéressés par les métiers
                                                     de de la comptabilité, de la finance, du contrôle de gestion et de l'audit et titulaires
                                                     (ou en cours d'obtention) d'un baccalauréat ou d'un diplôme équivalent.
                                                 </p>
@@ -76,45 +76,44 @@ include_once 'controller.php';
                                                 <h4 data-aos="zoom-in" data-aos-delay="400">Candidats admissibles</h4>
                                                 <p style="font-size:17px" data-aos="zoom-in" data-aos-delay="400">
                                                     Tous les étudiants titulaires du Baccalauréat ou de tout diplôme équivalent peuvent
-                                                    s'inscrire au CIFEC.
+                                                    s'inscrire au CFGE.
                                                 </p>
 
                                                 <h4 data-aos="zoom-in" data-aos-delay="400">Procédures d'inscription</h4>
                                                 <p style="font-size:17px" data-aos="zoom-in" data-aos-delay="400">
-                                                    Pour postuler au CIFEC, le candidat doit remplir <a href="preinscription.php">le formulaire de préinscription</a>. Une
-                                                    fois sa candidature acceptée, il finalise son inscription dans nos locaux (COCODY, II PLATEAUX SIDECI Carrefour DUNCAN après la CEI) tout en joignant les pièces ci-dessous : <br><br>
-                                                    <strong>- 01 Extrait d'acte de naissance;</strong> <br>
-                                                    <strong>- 01 Copie certifiée du dernier diplôme et du BAC</strong> <br>
-                                                    <strong>- 01 Photocopie légalisée des derniers bulletins </strong> <br>
-                                                    <strong>- 02 copies de la pièce d'identité;</strong> <br>
-                                                    <strong>- 02 photos d'identités</strong>
-                                                
+                                                    Pour postuler au CFGE, le candidat doit remplir <a href="preinscription.php">le formulaire de préinscription</a> . Une
+                                                    fois sa candidature acceptée, il finalise son inscription dans nos locaux (COCODY ,II PLATEAUX SIDECI Carrefour DUNCAN après la CEI) tout en joignant les pièces ci-dessous: <br><br>
+                                                    <strong>- 01 Exrtrait d'acte de naissance ;</strong><br>
+                                                    <strong>- 01 Copie certifiée du dernier diplome et du bac;</strong><br>
+                                                    <strong>- 01 Photocopie légalisée des derniers bulletins ;</strong><br>
+                                                    <strong>- 02 Copie de la pièce d'identité ;</strong><br>
+                                                    <strong>- 01 copie du certificat de nationalité</strong><br>
+                                                    <strong>- 02 photos d'identité</strong><br>
                                                 </p>
 
                                                 <h4 data-aos="zoom-in" data-aos-delay="400">Comment s'inscrire</h4>
 
                                                 <div class="col-sm-12 mgb-3">
                                                     <div class="row">
-                                                        <div class="col-sm-4 box box-1" data-aos="zoom-in" data-aos-delay="400">
-
+                                                        <div class="col-sm-4 box box-1"style="background-color: #b5d56a; color:white;" data-aos="zoom-in" data-aos-delay="400">
                                                             <h4 class="text-center">Vous postulez</h4>
-                                                            <p style="font-size:17px" class="text-center">
+                                                            <p style="font-size:17px; color :white;" class="text-center">
                                                                 Parlez un peu de vous et nous vous aiderons pour le reste.
                                                                 Notre outil de demande en ligne pratique ne prend que 3 min à remplir.
                                                             </p>
                                                         </div>
-                                                        <div class="col-sm-4 box box-2" data-aos="zoom-in" data-aos-delay="600">
+                                                        <div class="col-sm-4 box box-2" style="background-color:  #4886ff;color:white; data-aos="zoom-in" data-aos-delay="600">
 
                                                             <h4 class="text-center">On vous contacte</h4>
-                                                            <p style="font-size:17px" class="text-center">
+                                                            <p style="font-size:17px ; color:white;" class="text-center">
                                                                 Après avoir soumis votre candidature, un reponsable des admissions vous contactera
                                                                 et vous aidera à terminer le processus.
                                                             </p>
                                                         </div>
-                                                        <div class="col-sm-4 box box-3" data-aos="zoom-in" data-aos-delay="800">
+                                                        <div class="col-sm-4 box box-3" style="background-color: #ff6f6f;color:white;" data-aos="zoom-in" data-aos-delay="800">
 
                                                             <h4 class="text-center">Vous êtes prêt</h4>
-                                                            <p style="font-size:17px" class="text-center">
+                                                            <p style="font-size:17px; color:white;" class="text-center">
                                                                 Une fois votre inscription effectuée au sein de nos locaux, <br> vous êtes prêt à
                                                                 débuter votre carrière.
                                                             </p>
@@ -123,7 +122,7 @@ include_once 'controller.php';
                                                 </div>
 
 
-                                                <h4 data-aos="zoom-in" data-aos-delay="400">Mon Cursus au CIFEC</h4>
+                                                <h4 data-aos="zoom-in" data-aos-delay="400">Mon Cursus au CFGE</h4>
                                                 <p>
                                                 <div class="panel panel-default" data-aos="zoom-in" data-aos-delay="400">
                                                     <div class="panel-heading">
@@ -143,7 +142,6 @@ include_once 'controller.php';
                                                                                 <span><i class="fa fa-angle-right"></i> Préparation du DGC (UE 112 - Droit des Sociétés)</span>
                                                                             </div>
                                                                         </div>
-
                                                                     </div>
                                                                 </div>
                                                             </div>
