@@ -47,8 +47,8 @@
 <option value="MCCA ESCAE"
     <?php if (isset($_POST["form-sou"]) and $_POST["form-sou"] === "MCCA ESCAE") echo "selected"; ?>>Master
     Comptabilité, Contrôle, Audit MCCA ESCAE</option>
-<option value="LCCA INTEC"
-    <?php if (isset($_POST["form-sou"]) and $_POST["form-sou"] === "LCCA INTEC") echo "selected"; ?>>Master
+<option value="MCCA INTEC"
+    <?php if (isset($_POST["form-sou"]) and $_POST["form-sou"] === "MCCA INTEC") echo "selected"; ?>>Master
     Comptabilité, Contrôle, Audit INTEC</option>
 
 <option value="Certif - Audit des Systèmes d'Informations"
@@ -60,8 +60,8 @@
 <option value="Certif - Gestion des Associations"
     <?php if (isset($_POST["form-sou"]) and $_POST["form-sou"] === "Certif - Gestion des Associations") echo "selected"; ?>>
     Certification - Gestion des Associations</option>
-<option value="Certif - Gestion des Associations"
-    <?php if (isset($_POST["form-sou"]) and $_POST["form-sou"] === "Certif - Gestion des Associations") echo "selected"; ?>>
+<option value="Certif - Gestion Comptable et Financière des Collectivités Territoriales"
+    <?php if (isset($_POST["form-sou"]) and $_POST["form-sou"] === "Certif - Gestion Comptable et Financière des Collectivités Territoriales") echo "selected"; ?>>
     Certificat - Gestion Comptable et Financière des Collectivités Territoriales</option>
 <option value="Certif - Comptabilité Internationale"
     <?php if (isset($_POST["form-sou"]) and $_POST["form-sou"] === "Certif - Comptabilité Internationale") echo "selected"; ?>>
