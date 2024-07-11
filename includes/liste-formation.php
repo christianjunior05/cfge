@@ -14,6 +14,12 @@
     BTS Logistique
 
 </option>
+
+<option value="IDA" <?php if (isset($_POST["form-sou"]) and $_POST["form-sou"] === "LSTCF") echo "selected"; ?>>
+    BTS Ressources Humaines et Communication – RHCOM
+
+
+</option>
 <option value="LSTCF" <?php if (isset($_POST["form-sou"]) and $_POST["form-sou"] === "LSTCF") echo "selected"; ?>>
     Licence des Sciences Techniques Comptables et Financières</option>
 <option value="LSTCF" <?php if (isset($_POST["form-sou"]) and $_POST["form-sou"] === "LSTCF") echo "selected"; ?>>
