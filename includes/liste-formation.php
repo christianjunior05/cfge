@@ -1,25 +1,34 @@
 <option value="">Choisir</option>
-<option value="BTS FCGE" <?php if (isset($_POST["form-sou"]) and $_POST["form-sou"] === "LSTCF") echo "selected"; ?>>
+<option value="BTS FCGE" <?php if (isset($_POST["form-sou"]) and $_POST["form-sou"] === "FCGE") echo "selected"; ?>>
     BTS Finance Comptabilité et Gestion des Entreprises - FCGE</option>
 
-<option value="GC" <?php if (isset($_POST["form-sou"]) and $_POST["form-sou"] === "LSTCF") echo "selected"; ?>>
+<option value="GC" <?php if (isset($_POST["form-sou"]) and $_POST["form-sou"] === "GC") echo "selected"; ?>>
     BTS Gestion Commerciale – GC
 </option>
 
-<option value="IDA" <?php if (isset($_POST["form-sou"]) and $_POST["form-sou"] === "LSTCF") echo "selected"; ?>>
+<option value="IDA" <?php if (isset($_POST["form-sou"]) and $_POST["form-sou"] === "IDA") echo "selected"; ?>>
     BTS Informatique et Développeur d’Application – IDA
 </option>
 
-<option value="IDA" <?php if (isset($_POST["form-sou"]) and $_POST["form-sou"] === "LSTCF") echo "selected"; ?>>
+<option value="Logistique"
+    <?php if (isset($_POST["form-sou"]) and $_POST["form-sou"] === "Logistique") echo "selected"; ?>>
     BTS Logistique
 
 </option>
 
 <option value="IDA" <?php if (isset($_POST["form-sou"]) and $_POST["form-sou"] === "LSTCF") echo "selected"; ?>>
     BTS Ressources Humaines et Communication – RHCOM
-
-
 </option>
+<option value="dcg français" <?php if (isset($_POST["form-sou"]) and $_POST["form-sou"] === "DCG") echo "selected"; ?>>
+    Diplôme de Comptabilité et Gestion – DCG Etat Français</option>
+
+
+<option value="DGC INTEC"
+    <?php if (isset($_POST["form-sou"]) and $_POST["form-sou"] === "DGC INTEC") echo "selected"; ?>>
+    Diplôme de Gestion et de Comptabilité – DGC INTEC
+</option>
+
+
 <option value="LSTCF" <?php if (isset($_POST["form-sou"]) and $_POST["form-sou"] === "LSTCF") echo "selected"; ?>>
     Licence des Sciences Techniques Comptables et Financières</option>
 <option value="LSTCF" <?php if (isset($_POST["form-sou"]) and $_POST["form-sou"] === "LSTCF") echo "selected"; ?>>
