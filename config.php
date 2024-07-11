@@ -2,7 +2,7 @@
 $servername = "localhost";
 $username = "root";
 $password = "";
-$dbname = "cfge_db";
+$dbname = "cfge";
 
 try {
     $conn = new PDO("mysql:host=$servername;dbname=$dbname", $username, $password);
