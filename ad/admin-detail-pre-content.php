@@ -99,7 +99,7 @@
                                 </div>
 
                                 <div class="col*sm-2">
-                                    <button class="btn btn-sm btn-success text-light" onclick="history.back()">
+                                    <button class="btn btn-sm btn-primary text-light" onclick="history.back()">
                                         Retour</button>
                                     <button class="btn btn-sm btn-danger text-light" onclick="history.back()">
                                         Supprimez</button>
