@@ -29,31 +29,28 @@
 </option>
 
 
+<option value="LCCA INTEC"
+    <?php if (isset($_POST["form-sou"]) and $_POST["form-sou"] === "LCCA INTEC") echo "selected"; ?>>
+    Licence Comptabilité, Contrôle, Audit – LCCA INTEC
+</option>
 <option value="LSTCF" <?php if (isset($_POST["form-sou"]) and $_POST["form-sou"] === "LSTCF") echo "selected"; ?>>
-    Licence des Sciences Techniques Comptables et Financières</option>
-<option value="LSTCF" <?php if (isset($_POST["form-sou"]) and $_POST["form-sou"] === "LSTCF") echo "selected"; ?>>
-    Licence des Sciences Techniques Comptables et Financières</option>
-<option value="LSTCF" <?php if (isset($_POST["form-sou"]) and $_POST["form-sou"] === "LSTCF") echo "selected"; ?>>
-    Licence des Sciences Techniques Comptables et Financières</option>
+    Licence des Sciences Techniques Comptables et Financières LSTCF</option>
+
+<option value="DSCG" <?php if (isset($_POST["form-sou"]) and $_POST["form-sou"] === "DSCG") echo "selected"; ?>>
+    Diplôme Supérieur de Comptabilité et Gestion – DSCG Etat Français
+</option>
+<option value="DSCG INTEC"
+    <?php if (isset($_POST["form-sou"]) and $_POST["form-sou"] === "DSCG INTEC") echo "selected"; ?>>
+    Diplôme Supérieur de Gestion et Comptabilité – DSGC INTEC
+</option>
+
 <option value="MCCA ESCAE"
     <?php if (isset($_POST["form-sou"]) and $_POST["form-sou"] === "MCCA ESCAE") echo "selected"; ?>>Master
-    Comptabilité, Contrôle, Audit ESCAE</option>
-<option value="MCCA INTEC"
-    <?php if (isset($_POST["form-sou"]) and $_POST["form-sou"] === "MCCA INTEC") echo "selected"; ?>>Master
-    Comptabilité, Contrôle, Audit INTEC</option>
+    Comptabilité, Contrôle, Audit MCCA ESCAE</option>
 <option value="LCCA INTEC"
-    <?php if (isset($_POST["form-sou"]) and $_POST["form-sou"] === "LCCA INTEC") echo "selected"; ?>>Licence
+    <?php if (isset($_POST["form-sou"]) and $_POST["form-sou"] === "LCCA INTEC") echo "selected"; ?>>Master
     Comptabilité, Contrôle, Audit INTEC</option>
-<option value="DCG/DGC" <?php if (isset($_POST["form-sou"]) and $_POST["form-sou"] === "DCG/DGC") echo "selected"; ?>>
-    Diplôme Superieur de Gestion et de Comptabilité </option>
-<option value="DCSG/DSGC"
-    <?php if (isset($_POST["form-sou"]) and $_POST["form-sou"] === "DCSG/DSGC") echo "selected"; ?>>Diplôme Supérieur de
-    Gestion et de Comptabilité INTEC</option>
-<option value="Licence Nationale"
-    <?php if (isset($_POST["form-sou"]) and $_POST["form-sou"] === "Certif - Comptabilité Internationale") echo "selected"; ?>>
-    Licence Nationale</option>
-<option value="LFCA" <?php if (isset($_POST["form-sou"]) and $_POST["form-sou"] === "LFCA") echo "selected"; ?>>Licence
-    Finance Comtabilité et Audit</option>
+
 <option value="Certif - Audit des Systèmes d'Informations"
     <?php if (isset($_POST["form-sou"]) and $_POST["form-sou"] === "Certif - Audit des Systèmes d'Informations") echo "selected"; ?>>
     Certification - Audit des Systèmes d'Informations</option>
