@@ -39,7 +39,7 @@
                         <div class="tab-content pt-2">
 
                             <div class="tab-pane fade show active profile-overview" id="profile-overview">
-                                
+
                                 <h5 class="card-title">Details du profile</h5>
 
                                 <div class="row">
@@ -49,7 +49,8 @@
 
                                 <div class="row">
                                     <div class="col-lg-3 col-md-4 label ">Nom et Prenoms</div>
-                                    <div class="col-lg-9 col-md-8"><?= $result2['nom'] ." ". $result2['prenom']; ?></div>
+                                    <div class="col-lg-9 col-md-8"><?= $result2['nom'] ." ". $result2['prenom']; ?>
+                                    </div>
                                 </div>
 
                                 <div class="row">
@@ -69,7 +70,9 @@
 
                                 <div class="row">
                                     <div class="col-lg-3 col-md-4 label">Niveau</div>
-                                    <div class="col-lg-9 col-md-8 text-danger"><strong><?= $result2['niveau']; ?></strong></div>
+                                    <div class="col-lg-9 col-md-8 text-danger">
+                                        <strong><?= $result2['niveau']; ?></strong>
+                                    </div>
                                 </div>
 
                                 <div class="row">
@@ -84,18 +87,23 @@
 
                                 <div class="row">
                                     <div class="col-lg-3 col-md-4 label">Formation souhaitée</div>
-                                    <div class="col-lg-9 col-md-8 text-danger"><strong><?= $result2['formation']; ?></strong></div>
+                                    <div class="col-lg-9 col-md-8 text-danger">
+                                        <strong><?= $result2['formation']; ?></strong>
+                                    </div>
                                 </div>
 
                                 <div class="row">
-                                    <div class="col-lg-3 col-md-4 label">Comment avez-vous entendu parlé du CIFEC BENIN?</div>
+                                    <div class="col-lg-3 col-md-4 label">Comment avez-vous entendu parlé du CIFEC BENIN?
+                                    </div>
                                     <div class="col-lg-9 col-md-8"><?= $result2['moyen']; ?></div>
                                 </div>
 
                                 <div class="col*sm-2">
-                                    <button class="btn btn-sm btn-danger text-light" onclick="history.back()"> Retour</button>
+                                    <button class="btn btn-sm btn-success text-light" onclick="history.back()">
+                                        Retour</button>
+                                    <button class="btn btn-sm btn-danger text-light" onclick="history.back()">
+                                        Supprimez</button>
                                 </div>
-
                             </div>
 
                         </div>
