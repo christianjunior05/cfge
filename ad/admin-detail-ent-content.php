@@ -13,7 +13,7 @@
                         <div class="tab-content pt-2">
 
                             <div class="tab-pane fade show active profile-overview" id="profile-overview">
-                               
+
                                 <h5 class="card-title">Details de la requete</h5>
 
                                 <div class="row">
@@ -43,11 +43,16 @@
 
                                 <div class="row">
                                     <div class="col-lg-3 col-md-4 label">Objet</div>
-                                    <div class="col-lg-9 col-md-8 text-danger"><strong><?= $result3['objet']; ?></strong></div>
+                                    <div class="col-lg-9 col-md-8 text-danger">
+                                        <strong><?= $result3['objet']; ?></strong>
+                                    </div>
                                 </div>
 
                                 <div class="col*sm-2">
-                                    <button class="btn btn-sm btn-danger text-light" onclick="history.back()"> Retour</button>
+                                    <button class="btn btn-sm btn-primary text-light" onclick="history.back()">
+                                        Retour</button>
+                                    <button class="btn btn-sm btn-danger text-light" onclick="history.back()">
+                                        Supprimez</button>
                                 </div>
 
                             </div>
