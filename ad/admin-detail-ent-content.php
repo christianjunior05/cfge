@@ -53,7 +53,10 @@
                                         Retour</button>
                                     <button class="btn btn-sm btn-danger text-light" onclick="history.back()">
                                         Supprimez</button>
+                                    <button class="btn btn-sm btn-success text-light" onclick="history.back()">
+                                        Telecharger</button>
                                 </div>
+
 
                             </div>
 
