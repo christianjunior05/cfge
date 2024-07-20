@@ -39,9 +39,14 @@
                         <div class="tab-content pt-2">
 
                             <div class="tab-pane fade show active profile-overview" id="profile-overview">
+                                <?php
+                                if (!empty($delete_preins_error)) {
+                                    echo "<h5 class=\"card-title\" style='color:red;'>Suppression échoué, réesayer </h5>";
+                                }
 
-                                <h5 class="card-title">Details du profile</h5>
+                                ?>
 
+                                <h5 class="card-title">Details du profile </h5>
                                 <div class="row">
                                     <div class="col-lg-3 col-md-4 label ">Date de canditure</div>
                                     <div class="col-lg-9 col-md-8"><?= $result2['jour']; ?></div>
@@ -49,7 +54,7 @@
 
                                 <div class="row">
                                     <div class="col-lg-3 col-md-4 label ">Nom et Prenoms</div>
-                                    <div class="col-lg-9 col-md-8"><?= $result2['nom'] ." ". $result2['prenom']; ?>
+                                    <div class="col-lg-9 col-md-8"><?= $result2['nom'] . " " . $result2['prenom']; ?>
                                     </div>
                                 </div>
 
@@ -101,10 +106,22 @@
                                 <div class="col*sm-2">
                                     <button class="btn btn-sm btn-primary text-light" onclick="history.back()">
                                         Retour</button>
+
+                                    <a href="delete_preins.php?id=<?= $result2['id'] ?>">
+                                        <button class="btn btn-sm btn-danger text-light">
+                                            Supprimez</button>
+                                    </a>
+                                    <a href="creat_document.php?id=<?= $result2['id'] ?>">
+                                    <button class="btn btn-sm btn-success text-light" >
+                                        Telecharger</button> </a>
+
+
+
                                     <button class="btn btn-sm btn-danger text-light" onclick="history.back()">
                                         Supprimez</button>
                                     <button class="btn btn-sm btn-success text-light" onclick="history.back()">
                                         Telecharger</button>
+
                                 </div>
                             </div>
 

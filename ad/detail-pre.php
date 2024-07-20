@@ -1,12 +1,13 @@
 <?php
 session_start();
 if (!isset($_SESSION['connect'])) {
-    header('Location: login.php');
+  header('Location: login.php');
 }
 include_once 'controller_ad.php';
 
 // Obtenez le nom du fichier actuel
 $page = basename($_SERVER['PHP_SELF']);
+
 ?>
 
 <!DOCTYPE html>
@@ -24,7 +25,7 @@ $page = basename($_SERVER['PHP_SELF']);
   <?php include_once 'admin-sidebar.php'; ?>
   <!-- End Sidebar-->
 
-    <!-- main -->
+  <!-- main -->
   <?php include_once 'admin-detail-pre-content.php'; ?>
   <!-- End #main -->
 
@@ -32,7 +33,7 @@ $page = basename($_SERVER['PHP_SELF']);
   <?php include_once 'admin-footer.php'; ?>
   <!-- End Footer -->
 
-  
+
 </body>
 
 </html>
