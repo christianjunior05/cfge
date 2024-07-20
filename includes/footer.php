@@ -14,7 +14,8 @@
                         <li><span><i class="fa fa-envelope footer-icon"></i></span>infos@cfge.ci</li>
                         <li><span><i class="fa fa-envelope footer-icon"></i></span>ABIDJAN COCODY 2 PLATEAUX SIDECI</li>
                         <li><span><i class="fa fa-map-marker footer-icon"></i></span>Carrefour Duncan après la CEI
-                            <br><br>Rue K112 villa 18</li>
+                            <br><br>Rue K112 villa 18
+                        </li>
                     </ul>
                 </div>
 
