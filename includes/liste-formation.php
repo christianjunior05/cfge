@@ -13,7 +13,6 @@
 <option value="Logistique"
     <?php if (isset($_POST["form-sou"]) and $_POST["form-sou"] === "Logistique") echo "selected"; ?>>
     BTS Logistique
-
 </option>
 
 <option value="IDA" <?php if (isset($_POST["form-sou"]) and $_POST["form-sou"] === "LSTCF") echo "selected"; ?>>
