@@ -7,7 +7,7 @@ $candidats->execute();
 $result = $candidats->fetchAll(PDO::FETCH_ASSOC);
 
 // liste des candidats inscrits
-$candidats = $conn->prepare("SELECT * FROM preinscriptions ORDER BY jour DESC");
+$candidats = $conn->prepare("SELECT * FROM preinscriptions WHERE deleted='false' ORDER BY jour DESC ");
 $candidats->execute();
 $result = $candidats->fetchAll(PDO::FETCH_ASSOC);
 
@@ -28,7 +28,8 @@ $result4 = $nl->fetchAll(PDO::FETCH_ASSOC);
 
 // detail preinscription
 $voir = filter_input(INPUT_GET, "voir", FILTER_SANITIZE_NUMBER_INT);
-$select_preinscription = $conn->prepare('SELECT * FROM preinscriptions WHERE id = ?');
+$delete_preins_error = filter_input(INPUT_GET, "deleted", FILTER_SANITIZE_NUMBER_INT);
+$select_preinscription = $conn->prepare("SELECT * FROM preinscriptions WHERE id = ? AND deleted='false' ");
 if ($voir) {
     $select_preinscription->execute(array($voir));
     $result2 = $select_preinscription->fetch(PDO::FETCH_ASSOC);
