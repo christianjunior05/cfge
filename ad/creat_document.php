@@ -122,5 +122,6 @@ $pdf->Ln(10);
 
 $pdf->Output("OfficeForm.pdf", "F");
 
-header(("Location:imprimer.php "));
+
+header(("Location:imprimer.php?filename=".$result2['nom']));
 
