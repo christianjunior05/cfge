@@ -106,6 +106,7 @@
                                 <div class="col*sm-2">
                                     <button class="btn btn-sm btn-primary text-light" onclick="history.back()">
                                         Retour</button>
+
                                     <a href="delete_preins.php?id=<?= $result2['id'] ?>">
                                         <button class="btn btn-sm btn-danger text-light">
                                             Supprimez</button>
@@ -114,6 +115,12 @@
                                     <button class="btn btn-sm btn-success text-light" >
                                         Telecharger</button> </a>
 
+
+
+                                    <button class="btn btn-sm btn-danger text-light" onclick="history.back()">
+                                        Supprimez</button>
+                                    <button class="btn btn-sm btn-success text-light" onclick="history.back()">
+                                        Telecharger</button>
 
                                 </div>
                             </div>
