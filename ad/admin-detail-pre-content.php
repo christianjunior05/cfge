@@ -112,15 +112,9 @@
                                             Supprimez</button>
                                     </a>
                                     <a href="creat_document.php?id=<?= $result2['id'] ?>">
-                                    <button class="btn btn-sm btn-success text-light" >
-                                        Telecharger</button> </a>
+                                        <button class="btn btn-sm btn-success text-light">
+                                            Telecharger</button> </a>
 
-
-
-                                    <button class="btn btn-sm btn-danger text-light" onclick="history.back()">
-                                        Supprimez</button>
-                                    <button class="btn btn-sm btn-success text-light" onclick="history.back()">
-                                        Telecharger</button>
 
                                 </div>
                             </div>
